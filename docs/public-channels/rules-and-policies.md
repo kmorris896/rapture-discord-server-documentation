@@ -30,7 +30,7 @@ In all three methods, a picture of a government-issued identification will be re
 
 Your identity is of paramount importance and we will not store or save pictures you send us.  We highly recommend you delete the pictures from chat once the mod has accepted them.
 
-Please note that mods can request you re-verify at anytime.  While rare, if we suspect you are posting content that is not your own, we may remove your verification role, jail you, and request you re-verify.  The mod team will make use of <#752175149637173261> and will **NEVER** ask you to verify in DMs.
+Please note that mods can request you re-verify at anytime.  While rare, if we suspect you are posting content that is not your own, we may remove your verification role, jail you, and request you re-verify.  The mod team will make use of <#752172092426027108> and will **NEVER** ask you to verify in DMs.
 
 +++
 
@@ -41,10 +41,10 @@ Please note that mods can request you re-verify at anytime.  While rare, if we s
 *Generally speaking*, members who are found to be in violation of the rules may be disciplined in one of the following methods, in order of severity:
 - **Verbal Warning**: Often done in chat, a moderator will ping the individual who has broken the rule and remind them kindly to keep the rules in mind.  This is often for minor infractions.
 - **Temperary Mute**: Often issued in chat, a moderator will ping the individual who has broken the rule and prevent them from chatting for a short period of time, no more than 10 minutes.
-- **Official Warning**: Posted in <#somechannel>, moderators will name and ping the individual who has broken the rule and why they are receiving the warning.
-- **Jail**: Posted in <#somechannel>, moderators will name and ping the individual who has broken the rule and place them in an isolated area of the server.  They will only be interact with mods and read server rules.  Jail length is determined by the mod and can be extended for any reason.  Jail length will not exceed 10 days.
-- **Temporary Ban**: Posted in <#somechannel>, moderators will name and ping the individual who has broken the rule and why they are being banned and for how long.
-- **Permanent Ban**: Posted in <#somechannel>, moderators will name and ping the individual who has broken the rule and why they are being banned.
+- **Official Warning**: Posted in <#752153261342982204>, moderators will name and ping the individual who has broken the rule and why they are receiving the warning.
+- **Jail**: Posted in <#752153261342982204>, moderators will name and ping the individual who has broken the rule and place them in an isolated area of the server.  They will only be interact with mods and read server rules.  Jail length is determined by the mod and can be extended for any reason.  Jail length will not exceed 10 days.
+- **Temporary Ban**: Posted in <#752153261342982204>, moderators will name and ping the individual who has broken the rule and why they are being banned and for how long.
+- **Permanent Ban**: Posted in <#752153261342982204>, moderators will name and ping the individual who has broken the rule and why they are being banned.
 
 Get too many warnings, you'll be banned.  There's no formula and it's up to the discretion of the mods.
 
@@ -58,7 +58,7 @@ Only Jails can be appealed and must be done in the jail channel.
 
 If a member of the mod team believe you are underage, you will be Jailed and at which point you will need to verify within 48 hours or face a Temporary Ban from the server.
 
-If you suspect a person is underage, please inform the staff immediately with a <#752171996321677362>.
+If you suspect a person is underage, please inform the staff immediately with a <#752172092426027108>.
 
 +++
 
