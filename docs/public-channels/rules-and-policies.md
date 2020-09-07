@@ -23,10 +23,25 @@ Verification is required if you wish to post lewds or newds.  It also grants you
 
 While Verifying is **HIGHLY ENCOURAGED AND RECOMMENDED**, it is not required.  In order to verify, please create a <#752172092426027108>.  Verification occurs in one of three methods:
 - **VC with Video**: You will join a moderator on video chat.  He/She will ask you some questions and you'll be done.  Simplist way to verify.
-- **Picture verification**: You will be required to take at least two pictures: Selfie with a **hand-written sign** that has the server name, your Discord Username and Discriminator, and the date and time with timezone.  A second selfie that you will take during verification.  Pictures must be submitted within 6 hours of the picture being taken and cannot use any filters.
+- **Picture verification**: You will be required to take at least two pictures: 
+> - Selfie with a **hand-written sign** that has the server name, your Discord Username and Discriminator (the four digit code that comes after the `#`), and the date and time.
+> - A second selfie that you will take during verification.  
+> Pictures must be submitted within 6 hours of the picture being taken and cannot use any filters.
 - **Other Adult Verification**: If you are a verified member on a website such as OnlyFans, PornHub, etc. please let your moderator know.  You will be required to prove your identity.
 
+-- message break -- 
+Example of a selfie with your username, server name, and date and time:
+
+https://github.com/kmorris896/rapture-discord-server-documentation/raw/main/docs/public-channels/images/VerificationSelfie.png
+
+-- message break --
 In all three methods, a picture of a government-issued identification will be required.  You can mask/cover everything except your picture, your date of birth, and your gender.  While we care about how you self-identify, gender is used to help us get weed out catfishes.
+
+Example of a government-issued identification:
+
+https://github.com/kmorris896/rapture-discord-server-documentation/raw/main/docs/public-channels/images/MaskedPassport.jpg
+
+-- message break -- 
 
 Your identity is of paramount importance and we will not store or save pictures you send us.  We highly recommend you delete the pictures from chat once the mod has accepted them.
 
