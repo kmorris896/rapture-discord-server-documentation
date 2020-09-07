@@ -77,6 +77,30 @@ If you suspect a person is underage, please inform the staff immediately with a 
 
 +++
 
+-- Message break --
+
+**__Thirst__**
+
+This is a sexual kink server.
+
+If you aren't familiar with the term "thirst", it refers to a general attitude of horniness.  It is often viewed negatively, **especially** when directed toward others.  Thirst is perceived when there is a lack of context, void of any personal relationship with individuals, and the general attitude during chat or VC.
+
+It's okay to be horny and it's okay to be occassionally thirsty.
+
+But excessive thirst, especially directed at New Arrivals or Initiates without a prior exisiting and consenting relationship, will not be tolerated, whether it's on-server or in DMs.  Pushy behavior and repeated offenses are subject to mod action.
+
++++
+
+-- message break --
+
+**__Selfies__**
+
+You are welcome to post SFW selfies in <#somechannel>.  However, please follow the following rules:
+
+- Selfies must be SFW and something you would share publicly on Facebook, LinkedIn, or other some other public social networking site.  In other words, you must be clothed appropriately.
+- No children.  Ideally, all persons in the picture should be 18+.  Please use discretion if your friends are under the age of 18.  **The mods have full authority to remove a picture they believe is not appropriate for this server.
+- Repeatedly posting inappropriate pictures will result in a warning.
+
 -- message break --
 
 **__Rules__**
@@ -99,16 +123,6 @@ If you suspect a person is underage, please inform the staff immediately with a 
 **"We know it when we see it"**:  There may not be a rule for it.  But we know when someone is trying to be sneaky or creepy.  If it is suspected that this is the case for you, you will be warned or worse.  
 
 +++
-
-**__Thirst__**
-
-This is a sexual kink server.
-
-If you aren't familiar with the term "thirst", it refers to a general attitude of horniness.  It is often viewed negatively, **especially** when directed toward others.  Thirst is perceived when there is a lack of context, void of any personal relationship with individuals, and the general attitude during chat or VC.
-
-It's okay to be horny and it's okay to be occassionally thirsty.
-
-But excessive thirst, especially directed at New Arrivals or Initiates without a prior exisiting and consenting relationship, will not be tolerated, whether it's on-server or in DMs.  Pushy behavior and repeated offenses are subject to mod action.
 
 -- message break --
 
