@@ -16,10 +16,10 @@ Before you gain access to the rest of the server, you must create an introductio
 **Name:** Discord Username (or IRL name/nickname/etc if you prefer)
 **Age:** 84 (feel free to use 20+, "late 30s", etc. but try to be reasonable)
 **Gender:** Male (How YOU identify)
-**Location:** Eastern Time (GMT-5) (Timezone, region, geographic area.  Try to be specific, without being broad.  For example "California" is okay while "Northern Hemisphere" is not.
+**Location:** Eastern Time (GMT-5) (Timezone, region, geographic area.  Try to be specific, without being broad.  For example "California" is okay while "Northern Hemisphere" is not.)
 **Orientation:** Straight (Who are you attracted to?)
 **Role:** Dom, Sub, Switch, etc.  (What is your BDSM role?  if you don't know, say "Exploring")
-**Relationship Status:** Open/Poly 
+**Relationship Status:** Open/Poly (Self-explanitory but you may say "Rather not say")
 **DM Status:** Open/Closed/Ask (or some combination)
 **Kinks:** MUST LIST AT LEAST 3!!  Even if you're exploring, type something you think you're interested in.
 **Limits:** MUST LIST AT LEAST 3!!  Even if you're exploring, type something you think you don't want.
