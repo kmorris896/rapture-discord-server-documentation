@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Initiation"
-permalink: /public-channels/Initiation
+permalink: channel-initiation.html
 ---
 
 **__Initiation__**

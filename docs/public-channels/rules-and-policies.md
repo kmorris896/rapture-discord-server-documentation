@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Rules and Policies"
-permalink: /public-channels/RulesAndPolicies
+permalink: channel-rules-and-policies.html
 ---
 
 On behalf of the staff and all our members, we're happy to have you here.  Please take a moment to read through our rules and polices.  There are a lot of them and we know you won't remember them all.  But please note that by joining our membership you agree to abide by them.  These rules written with everyone's safety and security in mind, including yours.
@@ -134,4 +134,8 @@ You are welcome to post SFW selfies in <#somechannel>.  However, please follow t
 
 -- message break --
 
-All rules and policies are subject to change, but are version controlled.  This is version **1.0** and was last edited on 9/7/2020.
+All rules and policies are subject to change, but are version controlled.  It is recommended that you keep this channel unmuted for changes that may be published from time to time.  Minor changes, such as clarifications to existing rules or spelling changes, will typically take the form of edits.  Major changes, including the addition of new rules, will often mean this entire channel is purged and re-populated with the new rules.  When this happens, you may either go to our Github repository or watch in our announcements channel for what changes are in effect.
+
+
+
+This is version **1.0** and was last edited on 9/7/2020.

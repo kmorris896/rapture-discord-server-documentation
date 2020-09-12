@@ -10,3 +10,7 @@
 * [Masked Passport](./MaskedPassport.jpg)
   * Public Domain
   * Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Passport_card.jpg)
+
+* [640px-Ray_of_Light_on_Cap_Haitien,_Haiti_(7908717282).jpg](./640px-Ray_of_Light_on_Cap_Haitien,_Haiti_(7908717282).jpg)
+  * License via CC-BY 2.0 Generic by Alex Proimos
+  * Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ray_of_Light_on_Cap_Haitien,_Haiti_(7908717282).jpg)

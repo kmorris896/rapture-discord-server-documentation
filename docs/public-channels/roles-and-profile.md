@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Initiation"
-permalink: /public-channels/RolesAndProfile
+permalink: channel-roles-and-profile.html
 ---
 
 These roles may get "reset" from time-to-time.  If that is the case, simply re-react to the role you want to remove and then remove the reaction.
