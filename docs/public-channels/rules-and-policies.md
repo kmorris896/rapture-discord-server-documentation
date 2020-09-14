@@ -43,7 +43,7 @@ While Verifying is **HIGHLY ENCOURAGED AND RECOMMENDED**, it is not required.  I
 - **Picture verification**: You will be required to take at least two pictures: 
 > - Selfie with a **hand-written sign** that has the server name, your Discord Username and Discriminator (the four digit code that comes after the `#`), and the date and time.
 > - A second selfie that you will take during verification.  
-> Pictures must be submitted within 6 hours of the picture being taken and cannot use any filters.
+Pictures must be submitted within 6 hours of the picture being taken and cannot use any filters.
 
 -- message break -- 
 
