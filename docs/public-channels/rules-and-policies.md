@@ -52,6 +52,7 @@ Example of a selfie with your username, server name, and date and time:
 https://github.com/kmorris896/rapture-discord-server-documentation/raw/main/docs/public-channels/images/VerificationSelfie.png
 
 -- message break --
+
 In all three methods, a picture of a government-issued identification will be required.  You can mask/cover everything except your picture, your date of birth, and your gender.  While we care about how you self-identify, gender is used to help us get weed out catfishes.
 
 Example of a government-issued identification:
@@ -151,6 +152,4 @@ All rules and policies are subject to change, but are version controlled.  It is
 
 +++
 
-This is version **1.0** and was last edited on 9/12/2020.
-
-(Please note: rules will be version 1.0 for some time as rules get better.  Once the server is made more public, we'll start keeping track of each iterative change.)
+This is version **1.0** and was last edited on 9/14/2020.
