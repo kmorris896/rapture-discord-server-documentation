@@ -21,17 +21,29 @@ On behalf of the staff and all our members, we're happy to have you here.  Pleas
 
 -- message break --
 
+**__Bots__**
+
+The server utilizes many bots to ease the burden of performing administrative actions.  For example, <@235148962103951360> is used to assign roles, mute and ban users, as well as keep logs of all those actions.  One specific feature of <@235148962103951360> is to log deleted and edited messages.  This server uses this feature purely for moderator actions and for investigative duties.  Although the usage of these bots are permitted through Discord's Terms of Service (See the "Your Content" section for details), it is important for you to be aware that such tools are in use on this server.
+
+The server admins invite bots to the server after careful consideration to the benefits of its features and weighing it against the privacy of server members.  Server admins do not have any control over how third-party bots log or monitor usage.  When the decision is made to invite a bot, it is done for the hopes of bettering the server.  With that in mind, please understand that being on this server (or just having an account with Discord) means that your messages may be logged by us, Discord, or bot developers and we may not have much control on what is being done with that information.  
+
+While the admins will attempt to announce the addition or removal of a bot, please note that they may be invited or kicked with no notice.
+
++++
+
+-- message break --
+
 **__Verification__**
 
 Verification is required if you wish to post lewds or newds.  It also grants you access to verification-specific channels such as gender support channels as well as a verified classifieds channel.
 
 While Verifying is **HIGHLY ENCOURAGED AND RECOMMENDED**, it is not required.  In order to verify, please create a <#752172092426027108>.  Verification occurs in one of three methods:
 - **VC with Video**: You will join a moderator on video chat.  He/She will ask you some questions and you'll be done.  Simplist way to verify.
+- **Adult Website Verification**: If you are a verified member on a website such as OnlyFans, PornHub, etc. please let your moderator know.  You will be required to prove your identity.
 - **Picture verification**: You will be required to take at least two pictures: 
 > - Selfie with a **hand-written sign** that has the server name, your Discord Username and Discriminator (the four digit code that comes after the `#`), and the date and time.
 > - A second selfie that you will take during verification.  
 > Pictures must be submitted within 6 hours of the picture being taken and cannot use any filters.
-- **Other Adult Verification**: If you are a verified member on a website such as OnlyFans, PornHub, etc. please let your moderator know.  You will be required to prove your identity.
 
 -- message break -- 
 
