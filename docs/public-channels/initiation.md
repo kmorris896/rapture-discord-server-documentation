@@ -29,9 +29,9 @@ Before you gain access to the rest of the server, you must create an introductio
 
 -- message break --
 
-Introductions must be posted within one week of your arrival.  If you haven't done that, we'll politely give you a server kick.  You're welcome back any time but we try to keep people active and moving in the server.
+Introductions must be posted within 48 hours of your arrival.  If you haven't done that, we'll politely give you a server kick.  You're welcome back any time but we try to keep people active and moving in the server.
 
-All of the above are required fields.  Once you've posted your introduction in <#752098112461471844>, wait for someone on the Welcoming Committee to approve it.  Depending on Timezones, etc, it might take some time.  While you're waiting, please feel free to hang out with folks in <#752095507618463765>.
+All of the above are required fields.  Once you've posted your introduction in <#752098112461471844>, wait a moderator to approve it.  Depending on Timezones, etc, it might take some time.  While you're waiting, please feel free to hang out with folks in <#752095507618463765>.
 
 Remember: you are encouraged to edit your introduction as many times as you'd like but must follow the guidelines listed above.  If you create more than one post, the mods have discretion to delete your oldest post.
 
