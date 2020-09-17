@@ -69,6 +69,16 @@ Please note that mods can request you re-verify at anytime.  While rare, if we s
 
 -- message break --
 
+**__Alts/Multiple Accounts__**
+
+Generally speaking, having multiple accounts (commonly referred to as alts) on this server is frowned upon.  While not completely against the rules, sometimes you want to be anonymous and want to lurk without drawing attention.  So long as your alt does not disrupt the decorm and general atmosphere of the server, you *may* have multiple accounts here.  However, if the mods believe you are using an alt to circumvent a block, or to harrass users, the mods have full discretion to take mod action against all accounts that they reasonably believe belong to you, up to and including a ban.
+
+We recommend, but do not require, registering your alt with the server staff by creating a <#752172092426027108>.  Only your main account may be verified.  In order to verify a different account, your verified account will be kicked from the server.  The mods will require you to re-verify as outlined in the "Verification" section.
+
++++
+
+-- message break --
+
 **__Breaking Rules__**
 
 Everyone here is about having a fun time.  But rule breaks are going to happen.  *Generally speaking*, members who are found to be in violation of the rules may be disciplined in one of the following methods, in order of severity:
