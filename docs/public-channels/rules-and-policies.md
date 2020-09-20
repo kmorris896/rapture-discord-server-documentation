@@ -154,7 +154,7 @@ But excessive thirst, especially directed at New Arrivals or Initiates without a
 
 **__Selfies__**
 
-You are welcome to post SFW selfies in <#somechannel>.  However, please follow the following rules:
+You are welcome to post SFW selfies in <#752465698391064676>.  However, please follow the following rules:
 
 - Selfies must be SFW and something you would share publicly on Facebook, LinkedIn, or other some other public social networking site.  In other words, you must be clothed appropriately.
 - No children.  Ideally, all persons in the picture should be 18+.  Please use discretion if your friends are under the age of 18.  **The mods have full authority to remove a picture they believe is not appropriate for this server.
