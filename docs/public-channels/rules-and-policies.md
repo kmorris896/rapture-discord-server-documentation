@@ -21,7 +21,7 @@ On behalf of the staff and all our members, we're happy to have you here.  Pleas
 
 -- message break --
 
-The policies in this channel are managed and tracked through Github.  Major rewrites to the rules will increase the first (or major) number of the version number while minor additions/subtractions will increase the second number (known as a minor number).  Typographical revisions, spelling corrections, etc. will add a third (patch) number.  The rule version is always available on the less message in this channel and diffs between each version can be found on in the repository: <https://github.com/kmorris896/rapture-discord-server-documentation>
+The policies in this channel are managed and tracked through Github.  Major rewrites to the rules will increase the first (or major) number of the version number while minor additions/subtractions will increase the second number (known as a minor number).  Typographical revisions, spelling corrections, etc. will add a third (patch) number.  The rule version is always available on the last message in this channel and diffs between each version can be found on in the repository: <https://github.com/kmorris896/rapture-discord-server-documentation>
 
 Generally speaking, patches to the rules (the last kind of change), will be done through edits to the original message.  Other changes will often require a full purge and reload of the rules.  We will also let you know via a post in <#753604264147943494> that the rules have been updated.
 
