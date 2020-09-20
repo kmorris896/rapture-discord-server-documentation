@@ -182,4 +182,5 @@ All rules and policies are subject to change, but are version controlled.  It is
 
 +++
 
-This is version **1.0** and was last edited on 9/14/2020.
+This is version **1.1** and was last edited on 9/20/2020.  For details regarding changes between this version and the last version, please visit the last pull request: https://github.com/kmorris896/rapture-discord-server-documentation/pull/1
+
