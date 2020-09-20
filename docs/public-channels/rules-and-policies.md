@@ -37,14 +37,14 @@ DMing members solely to advertise other servers is prohibited and users who rece
 
 Admins, moderators, and other staff members of these servers are respectfully requested to create a <#752172092426027108> prior to creating an introduction.  Generally speaking, there would be concern that you are here solely to recruit members to your server.  However, we also know that you may want to go some place where "you're not in charge".  All we ask is that you be honest with us so that your intentions are clear.
 
-Please note that while you are welcome here, we reserve the right to limit your interactions here.  For example, even if you verify, we may block access to verified channels.  Or we may make it so that you cannot join VC.  At current, the following restrictions are in place:
+Please note that while you are welcome here, we reserve the right to limit your interactions.  For example, even if you verify, we may block access to verified channels.  Or we may make it so that you cannot join VC.  At current, the following restrictions are in place:
 
 - Staff members, moderators, admins, unique role holders of servers that have 2K or more members are not permitted to join without admin approval.
 - Staff members, moderators, and admins of other sex toy-related servers (servers that specifically have a toy control or similar channel) must create a <#752172092426027108> prior to creating an introduction and will be required to verify.
 - Staff members, moderators, and admins of other BDSM-related servers should (but are not required) create a <#752172092426027108> prior to creating an introduction.
 - The above does not apply to "personal" servers so long as they remain private and people are invited individually and the total number of members on the server is 100 people or less.
 
-We're not asking much here and believe this balances the desire to hang out as well as maintaining transparancy.  You are welcome to use an alt account to maintain anonymitity, so long as these alts follow the policy outlined in "Alts/Multiple Accounts" below.  However, using an alt account to **circumvent** this policy is not only rude but bad form.  When creating your support ticket, please indicate that you are using an alt.  We *may* ask you verify your primary account at the discretion of the admins.  
+We're not asking much here and believe this balances the desire to hang out as well as maintaining transparancy.  You are welcome to use an alt account to maintain anonymity, so long as these alts follow the policy outlined in "Alts/Multiple Accounts" below.  However, using an alt account to **circumvent** this policy is not only rude but bad form.  When creating your support ticket, please indicate that you are using an alt.  We *may* ask you verify your primary account at the discretion of the admins.  
 
 +++
 
