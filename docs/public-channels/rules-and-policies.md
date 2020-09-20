@@ -42,6 +42,7 @@ Please note that while you are welcome here, we reserve the right to limit your 
 - Staff members, moderators, admins, unique role holders of servers that have 2K or more members are not permitted to join without admin approval.
 - Staff members, moderators, and admins of other sex toy-related servers (servers that specifically have a toy control or similar channel) must create a <#752172092426027108> prior to creating an introduction and will be required to verify.
 - Staff members, moderators, and admins of other BDSM-related servers should (but are not required) create a <#752172092426027108> prior to creating an introduction.
+- The above does not apply to "personal" servers so long as they remain private and people are invited individually and the total number of members on the server is 100 people or less.
 
 We're not asking much here and believe this balances the desire to hang out as well as maintaining transparancy.  You are welcome to use an alt account to maintain anonymitity, so long as these alts follow the policy outlined in "Alts/Multiple Accounts" below.  However, using an alt account to **circumvent** this policy is not only rude but bad form.  When creating your support ticket, please indicate that you are using an alt.  We *may* ask you verify your primary account at the discretion of the admins.  
 
