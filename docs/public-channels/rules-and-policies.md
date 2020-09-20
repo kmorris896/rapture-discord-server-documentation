@@ -21,6 +21,26 @@ On behalf of the staff and all our members, we're happy to have you here.  Pleas
 
 -- message break --
 
+**__"Competing" Servers and Server Invites __**
+
+We know you have your choice of servers and we thank you for joining ours.  In order to keep membership harassment to a minimum, we ask that you refrain from advertising other BDSM servers in-channel.  We want to be supportive and encourage everyone to explore and share these other servers in established DMs.
+
+DMing members solely to advertise other servers is prohibited and users who receive such DMs should report them immediately.
+
+Admins, moderators, and other staff members of these servers are respectfully requested to create a <#752172092426027108> prior to creating an introduction.  Generally speaking, there would be concern that you are here solely to recruit members to your server.  However, we also know that you may want to go some place where "you're not in charge".  All we ask is that you be honest with us so that your intentions are clear.
+
+Please note that while you are welcome here, we reserve the right to limit your interactions here.  For example, even if you verify, we may block access to verified channels.  Or we may make it so that you cannot join VC.  At current, the following restrictions are in place:
+
+- Staff members, moderators, admins, unique role holders of servers that have 2K or more members are not permitted to join without admin approval.
+- Staff members, moderators, and admins of other sex toy-related servers (servers that specifically have a toy control or similar channel) must create a <#752172092426027108> prior to creating an introduction and will be required to verify.
+- Staff members, moderators, and admins of other BDSM-related servers should (but are not required) create a <#752172092426027108> prior to creating an introduction.
+
+We're not asking much here and believe this balances the desire to hang out as well as maintaining transparancy.  You are welcome to use an alt account to maintain anonymitity, so long as these alts follow the policy outlined in "Alts/Multiple Accounts" below.  However, using an alt account to **circumvent** this policy is not only rude but bad form.  When creating your support ticket, please indicate that you are using an alt.  We *may* ask you verify your primary account at the discretion of the admins.  
+
++++
+
+-- message break --
+
 **__Bots__**
 
 The server utilizes many bots to ease the burden of performing administrative actions.  For example, <@235148962103951360> is used to assign roles, mute and ban users, as well as keep logs of all those actions.  One specific feature of <@235148962103951360> is to log deleted and edited messages.  This server uses this feature purely for moderator actions and for investigative duties.  Although the usage of these bots are permitted through Discord's Terms of Service (See the "Your Content" section for details), it is important for you to be aware that such tools are in use on this server.
