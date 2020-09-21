@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Welcome"
-permalink: /index
+permalink: /index.html
 ---
 
 ## Welcome to Rapture's Documents
