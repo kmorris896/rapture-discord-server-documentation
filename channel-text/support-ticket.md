@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Support Ticket"
-permalink: channel-support-ticket.html
+sort: 4
 ---
 
 **__Support Ticket__**

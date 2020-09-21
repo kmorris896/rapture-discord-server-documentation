@@ -1,7 +1,6 @@
 ---
-layout: page
 title: "Initiation"
-permalink: channel-initiation.html
+sort: 4
 ---
 
 **__Initiation__**

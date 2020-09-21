@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Welcome Message"
-permalink: channel-welcome-message.html
+sort: 4
 ---
 
 **__Welcome to Rapture__**
