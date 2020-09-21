@@ -1,5 +1,5 @@
 ---
-layout: page
+sort: 1
 ---
 
 # Main Guidelines
