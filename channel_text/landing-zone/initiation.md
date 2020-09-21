@@ -1,6 +1,6 @@
 ---
 title: "Initiation"
-sort: 4
+sort: 3
 ---
 
 # Initiation

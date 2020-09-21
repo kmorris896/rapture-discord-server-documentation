@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Rules and Policies"
-sort: 4
+sort: 2
 ---
 
 # Rules and Policies

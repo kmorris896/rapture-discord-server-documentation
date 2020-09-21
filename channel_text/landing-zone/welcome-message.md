@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Welcome Message"
-sort: 4
+sort: 1
 ---
 
 # Welcome
