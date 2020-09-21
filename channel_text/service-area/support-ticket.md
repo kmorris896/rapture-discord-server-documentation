@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Support Ticket"
-sort: 4
+sort: 1
 ---
 
 # Support Ticket
