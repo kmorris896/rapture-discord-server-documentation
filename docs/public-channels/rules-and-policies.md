@@ -2,11 +2,14 @@
 layout: page
 title: "Rules and Policies"
 permalink: channel-rules-and-policies.html
+chennel.support-ticket: #752172092426027108
 ---
 
 On behalf of the staff and all our members, we're happy to have you here.  Please take a moment to read through our rules and polices.  There are a lot of them and we know you won't remember them all.  But please note that by joining our membership you agree to abide by them.  These rules written with everyone's safety and security in mind, including yours.
 
 +++
+
+-- message break --
 
 **__Policies__**
 
@@ -16,6 +19,40 @@ On behalf of the staff and all our members, we're happy to have you here.  Pleas
 3.  The Admins and Moderators balance the needs of the community with the specific needs of an individual.  When in doubt, safety and security will supercede the short-term harm that may come to the server.  If you're being harassed by a specific member, please let a staff member know.  Even if they aren't breaking a rule, if someone makes you uncomfortable, **LET US KNOW!!**  We can't help you if we don't know.  If a member of staff is making you uncomfortable, please let a Server Admin know.
 4.  While staff members entrusted with additional responsibility, they are not above the rules.  If you see a staff member breaking the rules, please DM a server admin.
 5.  Verification is encouraged and only required when being underage is suspected.  Anyone on the mod team may request you to verify at any time.  All such verification demands will be handled through the Verification System.
+
++++
+
+-- message break --
+
+The policies in this channel are managed and tracked through Github.  Major rewrites to the rules will increase the first (or major) number of the version number while minor additions/subtractions will increase the second number (known as a minor number).  Typographical revisions, spelling corrections, etc. will add a third (patch) number.  The rule version is always available on the last message in this channel and diffs between each version can be found on in the repository: <https://github.com/kmorris896/rapture-discord-server-documentation>
+
+Generally speaking, patches to the rules (the last kind of change), will be done through edits to the original message.  Other changes will often require a full purge and reload of the rules.  We will also let you know via a post in <#753604264147943494> that the rules have been updated.
+
++++
+
+-- message break --
+
+**__"Competing" Servers and Server Invites __**
+
+We know you have your choice of servers and we thank you for joining ours.  In order to keep membership harassment to a minimum, we ask that you refrain from advertising other BDSM servers in-channel.  We want to be supportive and encourage everyone to explore and share these other servers in established DMs.
+
+DMing members solely to advertise other servers is prohibited and users who receive such DMs should report them immediately.
+
+Admins, moderators, and other staff members of these servers are respectfully requested to create a <#752172092426027108> prior to creating an introduction.  Generally speaking, there would be concern that you are here solely to recruit members to your server.  However, we also know that you may want to go some place where "you're not in charge".  All we ask is that you be honest with us so that your intentions are clear.
+
+Please note that while you are welcome here, we reserve the right to limit your interactions.  For example, even if you verify, we may block access to verified channels.  Or we may make it so that you cannot join VC.  At current, the following restrictions are in place:
+
+-- message break --
+
+- Staff members, moderators, admins, unique role holders of servers that have 2K or more members are not permitted to join without admin approval.
+- Staff members, moderators, and admins of other sex toy-related servers (servers that specifically have a toy control or similar channel) must create a <#752172092426027108> prior to creating an introduction and will be required to verify.
+- Staff members, moderators, and admins of other BDSM-related servers should (but are not required) create a <#752172092426027108> prior to creating an introduction.
+- The above does not apply to "personal" servers so long as:
+>  - They are not advertised on Discord's server discovery feature, Disboard or similar website 
+>  - People are invited individually, i.e. there is no generalized invite that is shared among non-friends
+>  - The total number of members on the server is 100 people or less.  Personal servers
+
+We're not asking much here and believe this balances the desire to hang out as well as maintaining transparency.  You are welcome to use an alt account to maintain anonymity, so long as these alts follow the policy outlined in "Alts/Multiple Accounts" below.  However, using an alt account to **circumvent** this policy is not only rude but bad form.  When creating your support ticket, please indicate that you are using an alt.  We *may* ask you verify your primary account at the discretion of the admins.  
 
 +++
 
@@ -69,6 +106,16 @@ Please note that mods can request you re-verify at anytime.  While rare, if we s
 
 -- message break --
 
+**__Alts/Multiple Accounts__**
+
+Generally speaking, having multiple accounts (commonly referred to as alts) on this server is frowned upon.  While not completely against the rules, sometimes you want to be anonymous and want to lurk without drawing attention.  So long as your alt does not disrupt the decorm and general atmosphere of the server, you *may* have multiple accounts here.  However, if the mods believe you are using an alt to circumvent a block, or to harrass users, the mods have full discretion to take mod action against all accounts that they reasonably believe belong to you, up to and including a ban.
+
+We recommend, but do not require, registering your alt with the server staff by creating a <#752172092426027108>.  Only your main account may be verified.  In order to verify a different account, your verified account will be kicked from the server.  The mods will require you to re-verify as outlined in the "Verification" section.
+
++++
+
+-- message break --
+
 **__Breaking Rules__**
 
 Everyone here is about having a fun time.  But rule breaks are going to happen.  *Generally speaking*, members who are found to be in violation of the rules may be disciplined in one of the following methods, in order of severity:
@@ -115,7 +162,7 @@ But excessive thirst, especially directed at New Arrivals or Initiates without a
 
 **__Selfies__**
 
-You are welcome to post SFW selfies in <#somechannel>.  However, please follow the following rules:
+You are welcome to post SFW selfies in <#752465698391064676>.  However, please follow the following rules:
 
 - Selfies must be SFW and something you would share publicly on Facebook, LinkedIn, or other some other public social networking site.  In other words, you must be clothed appropriately.
 - No children.  Ideally, all persons in the picture should be 18+.  Please use discretion if your friends are under the age of 18.  **The mods have full authority to remove a picture they believe is not appropriate for this server.
@@ -152,4 +199,5 @@ All rules and policies are subject to change, but are version controlled.  It is
 
 +++
 
-This is version **1.0** and was last edited on 9/14/2020.
+This is version **1.1** and was last edited on 9/20/2020.  For details regarding changes between this version and the last version, please visit the last pull request: <https://github.com/kmorris896/rapture-discord-server-documentation/pull/1>
+
