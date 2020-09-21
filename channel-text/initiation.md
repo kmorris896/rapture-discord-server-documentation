@@ -3,6 +3,8 @@ title: "Initiation"
 sort: 4
 ---
 
+# Initiation
+
 **__Initiation__**
 
 You will see a few more channels now.  <#752095507618463765> is now available if you have any questions regarding the rules or the server.  Keep in mind that slowmode is activated so you can only send a message every 5 seconds, longer if the server is being raided.

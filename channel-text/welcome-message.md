@@ -4,6 +4,8 @@ title: "Welcome Message"
 sort: 4
 ---
 
+# Welcome
+
 **__Welcome to Rapture__**
 
 Thank you for joining!  Rapture is a BDSM-based server where members can explore their kinky side.

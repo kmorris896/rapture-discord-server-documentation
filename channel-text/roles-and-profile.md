@@ -1,10 +1,13 @@
 ---
 layout: page
-title: "Initiation"
+title: "Roles and Profile"
 sort: 4
 ---
 
+# Roles and Profile
+
 These roles may get "reset" from time-to-time.  If that is the case, simply re-react to the role you want to remove and then remove the reaction.
+
 +++
 
 -- message break -- 
@@ -27,6 +30,7 @@ Please note staff members are permitted to DM for server-related tasks as needed
 
 !purge 4
 ```
+
 +++
 
 Select your gender.  You are welcome to self-identify here.  Please make your choice carefully.  Once selected you will need to create a <#752172092426027108> to change it.
@@ -52,6 +56,7 @@ Select your gender.  You are welcome to self-identify here.  Please make your ch
 ```
 
 -- message break --
+
 +++
 
 Select your age.  Once set, changing it requires a support ticket.  Please select your honest age range.
@@ -76,6 +81,7 @@ Select your age.  Once set, changing it requires a support ticket.  Please selec
 ```
 
 -- message break --
+
 +++
 
 Select as many sexual preferences as you'd like.  You can change these as often as you prefer.
@@ -96,6 +102,7 @@ Select as many sexual preferences as you'd like.  You can change these as often 
 ```
 
 -- message break --
+
 +++
 
 Select as many pingable roles as you would like.  You can change these as often as you prefer.
@@ -117,6 +124,7 @@ Select as many pingable roles as you would like.  You can change these as often 
 ```
 
 -- message break --
+
 +++
 
 Select your BDSM roles.  Change as often as you prefer.  Keep in mind if you are a Switch that leans Dominant, select "Switch" and "Dominant".  Selecting all three just doesn't make a ton of sense.
@@ -141,6 +149,7 @@ Select your BDSM roles.  Change as often as you prefer.  Keep in mind if you are
 
 
 -- message break --
+
 +++
 
 Optionally, what's your relationship status?  You can select more than one here but some are mutually exclusive.
@@ -162,6 +171,7 @@ Optionally, what's your relationship status?  You can select more than one here 
 ```
 
 -- message break --
+
 +++
 
 Optionally, select what you're looking for.
@@ -181,4 +191,3 @@ Optionally, select what you're looking for.
 ```
 
 -- message break --
-

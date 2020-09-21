@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Main Guidelines"
-permalink: /moderator-documents/MainGuidelines
 ---
+
+# Main Guidelines
 
 More to come

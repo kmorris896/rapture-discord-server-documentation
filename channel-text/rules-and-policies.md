@@ -4,9 +4,13 @@ title: "Rules and Policies"
 sort: 4
 ---
 
+# Rules and Policies
+
 On behalf of the staff and all our members, we're happy to have you here.  Please take a moment to read through our rules and polices.  There are a lot of them and we know you won't remember them all.  But please note that by joining our membership you agree to abide by them.  These rules written with everyone's safety and security in mind, including yours.
 
 +++
+
+-- message break --
 
 **__Policies__**
 
