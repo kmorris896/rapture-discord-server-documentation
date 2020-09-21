@@ -2,11 +2,14 @@
 layout: page
 title: "Rules and Policies"
 permalink: channel-rules-and-policies.html
+chennel.support-ticket: #752172092426027108
 ---
 
 On behalf of the staff and all our members, we're happy to have you here.  Please take a moment to read through our rules and polices.  There are a lot of them and we know you won't remember them all.  But please note that by joining our membership you agree to abide by them.  These rules written with everyone's safety and security in mind, including yours.
 
 +++
+
+-- message break --
 
 **__Policies__**
 
@@ -39,15 +42,17 @@ Admins, moderators, and other staff members of these servers are respectfully re
 
 Please note that while you are welcome here, we reserve the right to limit your interactions.  For example, even if you verify, we may block access to verified channels.  Or we may make it so that you cannot join VC.  At current, the following restrictions are in place:
 
+-- message break --
+
 - Staff members, moderators, admins, unique role holders of servers that have 2K or more members are not permitted to join without admin approval.
 - Staff members, moderators, and admins of other sex toy-related servers (servers that specifically have a toy control or similar channel) must create a <#752172092426027108> prior to creating an introduction and will be required to verify.
 - Staff members, moderators, and admins of other BDSM-related servers should (but are not required) create a <#752172092426027108> prior to creating an introduction.
 - The above does not apply to "personal" servers so long as:
-  - They are not advertised on Discord's server discovery feature, Disboard or similar website 
-  - People are invited individually, i.e. there is no generalized invite that is shared among non-friends
-  - The total number of members on the server is 100 people or less.  Personal servers
+>  - They are not advertised on Discord's server discovery feature, Disboard or similar website 
+>  - People are invited individually, i.e. there is no generalized invite that is shared among non-friends
+>  - The total number of members on the server is 100 people or less.  Personal servers
 
-We're not asking much here and believe this balances the desire to hang out as well as maintaining transparancy.  You are welcome to use an alt account to maintain anonymity, so long as these alts follow the policy outlined in "Alts/Multiple Accounts" below.  However, using an alt account to **circumvent** this policy is not only rude but bad form.  When creating your support ticket, please indicate that you are using an alt.  We *may* ask you verify your primary account at the discretion of the admins.  
+We're not asking much here and believe this balances the desire to hang out as well as maintaining transparency.  You are welcome to use an alt account to maintain anonymity, so long as these alts follow the policy outlined in "Alts/Multiple Accounts" below.  However, using an alt account to **circumvent** this policy is not only rude but bad form.  When creating your support ticket, please indicate that you are using an alt.  We *may* ask you verify your primary account at the discretion of the admins.  
 
 +++
 
@@ -194,5 +199,5 @@ All rules and policies are subject to change, but are version controlled.  It is
 
 +++
 
-This is version **1.1** and was last edited on 9/20/2020.  For details regarding changes between this version and the last version, please visit the last pull request: https://github.com/kmorris896/rapture-discord-server-documentation/pull/1
+This is version **1.1** and was last edited on 9/20/2020.  For details regarding changes between this version and the last version, please visit the last pull request: <https://github.com/kmorris896/rapture-discord-server-documentation/pull/1>
 
