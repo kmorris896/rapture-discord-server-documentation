@@ -25,17 +25,63 @@ On behalf of the staff and all our members, we're happy to have you here.  Pleas
 
 -- message break --
 
+The policies in this channel are managed and tracked through Github.  Major rewrites to the rules will increase the first (or major) number of the version number while minor additions/subtractions will increase the second number (known as a minor number).  Typographical revisions, spelling corrections, etc. will add a third (patch) number.  The rule version is always available on the last message in this channel and diffs between each version can be found on in the repository: <https://github.com/kmorris896/rapture-discord-server-documentation>
+
+Generally speaking, patches to the rules (the last kind of change), will be done through edits to the original message.  Other changes will often require a full purge and reload of the rules.  We will also let you know via a post in <#753604264147943494> that the rules have been updated.
+
++++
+
+-- message break --
+
+**__"Competing" Servers and Server Invites __**
+
+We know you have your choice of servers and we thank you for joining ours.  In order to keep membership harassment to a minimum, we ask that you refrain from advertising other BDSM servers in-channel.  We want to be supportive and encourage everyone to explore and share these other servers in established DMs.
+
+DMing members solely to advertise other servers is prohibited and users who receive such DMs should report them immediately.
+
+Admins, moderators, and other staff members of these servers are respectfully requested to create a <#752172092426027108> prior to creating an introduction.  Generally speaking, there would be concern that you are here solely to recruit members to your server.  However, we also know that you may want to go some place where "you're not in charge".  All we ask is that you be honest with us so that your intentions are clear.
+
+Please note that while you are welcome here, we reserve the right to limit your interactions.  For example, even if you verify, we may block access to verified channels.  Or we may make it so that you cannot join VC.  At current, the following restrictions are in place:
+
+-- message break --
+
+- Staff members, moderators, admins, unique role holders of servers that have 2K or more members are not permitted to join without admin approval.
+- Staff members, moderators, and admins of other sex toy-related servers (servers that specifically have a toy control or similar channel) must create a <#752172092426027108> prior to creating an introduction and will be required to verify.
+- Staff members, moderators, and admins of other BDSM-related servers should (but are not required) create a <#752172092426027108> prior to creating an introduction.
+- The above does not apply to "personal" servers so long as:
+>  - They are not advertised on Discord's server discovery feature, Disboard or similar website 
+>  - People are invited individually, i.e. there is no generalized invite that is shared among non-friends
+>  - The total number of members on the server is 100 people or less.  Personal servers
+
+We're not asking much here and believe this balances the desire to hang out as well as maintaining transparency.  You are welcome to use an alt account to maintain anonymity, so long as these alts follow the policy outlined in "Alts/Multiple Accounts" below.  However, using an alt account to **circumvent** this policy is not only rude but bad form.  When creating your support ticket, please indicate that you are using an alt.  We *may* ask you verify your primary account at the discretion of the admins.  
+
++++
+
+-- message break --
+
+**__Bots__**
+
+The server utilizes many bots to ease the burden of performing administrative actions.  For example, <@235148962103951360> is used to assign roles, mute and ban users, as well as keep logs of all those actions.  One specific feature of <@235148962103951360> is to log deleted and edited messages.  This server uses this feature purely for moderator actions and for investigative duties.  Although the usage of these bots are permitted through Discord's Terms of Service (See the "Your Content" section for details), it is important for you to be aware that such tools are in use on this server.
+
+The server admins invite bots to the server after careful consideration to the benefits of its features and weighing it against the privacy of server members.  Server admins do not have any control over how third-party bots log or monitor usage.  When the decision is made to invite a bot, it is done for the hopes of bettering the server.  With that in mind, please understand that being on this server (or just having an account with Discord) means that your messages may be logged by us, Discord, or bot developers and we may not have much control on what is being done with that information.  
+
+While the admins will attempt to announce the addition or removal of a bot, please note that they may be invited or kicked with no notice.
+
++++
+
+-- message break --
+
 **__Verification__**
 
 Verification is required if you wish to post lewds or newds.  It also grants you access to verification-specific channels such as gender support channels as well as a verified classifieds channel.
 
 While Verifying is **HIGHLY ENCOURAGED AND RECOMMENDED**, it is not required.  In order to verify, please create a <#752172092426027108>.  Verification occurs in one of three methods:
 - **VC with Video**: You will join a moderator on video chat.  He/She will ask you some questions and you'll be done.  Simplist way to verify.
+- **Adult Website Verification**: If you are a verified member on a website such as OnlyFans, PornHub, etc. please let your moderator know.  You will be required to prove your identity.
 - **Picture verification**: You will be required to take at least two pictures: 
 > - Selfie with a **hand-written sign** that has the server name, your Discord Username and Discriminator (the four digit code that comes after the `#`), and the date and time.
 > - A second selfie that you will take during verification.  
-> Pictures must be submitted within 6 hours of the picture being taken and cannot use any filters.
-- **Other Adult Verification**: If you are a verified member on a website such as OnlyFans, PornHub, etc. please let your moderator know.  You will be required to prove your identity.
+Pictures must be submitted within 6 hours of the picture being taken and cannot use any filters.
 
 -- message break -- 
 
@@ -44,6 +90,7 @@ Example of a selfie with your username, server name, and date and time:
 https://github.com/kmorris896/rapture-discord-server-documentation/raw/main/docs/public-channels/images/VerificationSelfie.png
 
 -- message break --
+
 In all three methods, a picture of a government-issued identification will be required.  You can mask/cover everything except your picture, your date of birth, and your gender.  While we care about how you self-identify, gender is used to help us get weed out catfishes.
 
 Example of a government-issued identification:
@@ -55,6 +102,16 @@ https://github.com/kmorris896/rapture-discord-server-documentation/raw/main/docs
 Your identity is of paramount importance and we will not store or save pictures you send us.  We highly recommend you delete the pictures from chat once the mod has accepted them.
 
 Please note that mods can request you re-verify at anytime.  While rare, if we suspect you are posting content that is not your own, we may remove your verification role, jail you, and request you re-verify.  The mod team will make use of <#752172092426027108> and will **NEVER** ask you to verify in DMs.
+
++++
+
+-- message break --
+
+**__Alts/Multiple Accounts__**
+
+Generally speaking, having multiple accounts (commonly referred to as alts) on this server is frowned upon.  While not completely against the rules, sometimes you want to be anonymous and want to lurk without drawing attention.  So long as your alt does not disrupt the decorm and general atmosphere of the server, you *may* have multiple accounts here.  However, if the mods believe you are using an alt to circumvent a block, or to harrass users, the mods have full discretion to take mod action against all accounts that they reasonably believe belong to you, up to and including a ban.
+
+We recommend, but do not require, registering your alt with the server staff by creating a <#752172092426027108>.  Only your main account may be verified.  In order to verify a different account, your verified account will be kicked from the server.  The mods will require you to re-verify as outlined in the "Verification" section.
 
 +++
 
@@ -106,7 +163,7 @@ But excessive thirst, especially directed at New Arrivals or Initiates without a
 
 **__Selfies__**
 
-You are welcome to post SFW selfies in <#somechannel>.  However, please follow the following rules:
+You are welcome to post SFW selfies in <#752465698391064676>.  However, please follow the following rules:
 
 - Selfies must be SFW and something you would share publicly on Facebook, LinkedIn, or other some other public social networking site.  In other words, you must be clothed appropriately.
 - No children.  Ideally, all persons in the picture should be 18+.  Please use discretion if your friends are under the age of 18.  **The mods have full authority to remove a picture they believe is not appropriate for this server.
@@ -143,6 +200,5 @@ All rules and policies are subject to change, but are version controlled.  It is
 
 +++
 
-This is version **1.0** and was last edited on 9/12/2020.
+This is version **1.1** and was last edited on 9/20/2020.  For details regarding changes between this version and the last version, please visit the last pull request: <https://github.com/kmorris896/rapture-discord-server-documentation/pull/1>
 
-(Please note: rules will be version 1.0 for some time as rules get better.  Once the server is made more public, we'll start keeping track of each iterative change.)

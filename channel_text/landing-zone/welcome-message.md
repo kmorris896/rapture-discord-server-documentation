@@ -37,9 +37,19 @@ When you're ready, please accept the Principles as well as <#752104497538400306>
 
 !rr add <#752074304224755755> MESSAGE_ID :white_check_mark: <@&752090021967953991>
 
+# Add the "New Arrival" Role Reaction
+
+!rr add <#752074304224755755> MESSAGE_ID :octagonal_sign: <@&752089891621568563>
+
+# Whitelist "New Arrivals" can react to this message
+
 !rr wl MESSAGE_ID <@&752089891621568563>
 
-!rr verify MESSAGE_ID
+# Make this reaction unique (can only select one)
 
-!purge 6
+!rr unique MESSAGE_ID
+
+# remove the last 8 messages
+
+!purge 8
 ```
