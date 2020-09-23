@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Roles and Profile"
+title: "Profile and Roles"
 sort: 4
 ---
 
-# Roles and Profile
+# Profile and Roles
 
 These roles may get "reset" from time-to-time.  If that is the case, simply re-react to the role you want to remove and then remove the reaction.
 
