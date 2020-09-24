@@ -19,7 +19,7 @@ The following Prescriptive Roles provide the basis of all privileges granted to 
 |Jailed|752151508237418506|Membership|One of Membership|Attach Files, Read Message History, Use External Emojis, Add Reactions, Connect, Speak, Video|none|Can only chat the "Jail" chat, read rules/policies, and create service tickets.|
 
 
-## Role Workflow:
+# Role Workflow:
 
 - New Arrival
 - Awaiting Initiation
@@ -31,7 +31,7 @@ When brand new members enter the server, they are given the "New Arrival" role, 
 Members with the "Awaiting Initiation" role have one week to post an acceptable Introduction at which point they will be politely kicked from the server.
 
 
-## Initiating New Members
+# Initiating New Members
 
 New members need to complete an introduction as well as select roles for their profile.  Introductions should not be low-effort and should reflect that they have put thought and consideration to their words.  Of course, this is subjective but it's good to look for the following things:
 
