@@ -2,6 +2,8 @@
 sort: 5
 ---
 
+# Special Roles
+
 The server admins will, from time-to-time, issue special roles, commemorating something unique or in recognition of some other act.  There is no rhyme or reason to it.  Some roles are created to deal with specific rights and permissions while others are secret.  In any event, this channel will share these roles and what they are for.
 
 +++
