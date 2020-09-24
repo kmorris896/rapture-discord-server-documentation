@@ -1,5 +1,4 @@
 ---
-title: "Initiation"
 sort: 3
 ---
 

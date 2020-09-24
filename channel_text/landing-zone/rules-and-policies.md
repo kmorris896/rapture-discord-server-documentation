@@ -1,6 +1,4 @@
 ---
-layout: page
-title: "Rules and Policies"
 sort: 2
 ---
 

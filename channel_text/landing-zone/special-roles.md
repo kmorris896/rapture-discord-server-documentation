@@ -1,6 +1,4 @@
 ---
-layout: page
-title: "Special Roles"
 sort: 5
 ---
 

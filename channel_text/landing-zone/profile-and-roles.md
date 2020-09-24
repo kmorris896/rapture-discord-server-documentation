@@ -1,6 +1,4 @@
 ---
-layout: page
-title: "Profile and Roles"
 sort: 4
 ---
 

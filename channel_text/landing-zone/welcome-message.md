@@ -1,6 +1,4 @@
 ---
-layout: page
-title: "Welcome Message"
 sort: 1
 ---
 
