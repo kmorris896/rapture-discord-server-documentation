@@ -12,12 +12,12 @@ On behalf of the staff and all our members, we're happy to have you here.  Pleas
 
 **__Policies__**
 
-0.  The Server Admins have final authority on all server-related decisions, including, but not limited to, server content, membership, moderator actions, bans, mutes, etc.  Their word is final, without further review.  Admins have wide-sweeping authority and the responsibility that comes with it.
-1.  The Moderators have delegated authority to **mute**, **jail**, and **temporarily ban** any Discord user.  They exercise these permissions for the betterment of the server and to assist in keeping this place safe.  Permanent bans are decided on a case-by-case basis and if a user is found to be particularly toxic or disruptive, may face immediate permanent ban.
-2.  Members who have specific complaints about another member should create a <#752172092426027108>.  Please do not publically denounce someone.
-3.  The Admins and Moderators balance the needs of the community with the specific needs of an individual.  When in doubt, safety and security will supercede the short-term harm that may come to the server.  If you're being harassed by a specific member, please let a staff member know.  Even if they aren't breaking a rule, if someone makes you uncomfortable, **LET US KNOW!!**  We can't help you if we don't know.  If a member of staff is making you uncomfortable, please let a Server Admin know.
-4.  While staff members entrusted with additional responsibility, they are not above the rules.  If you see a staff member breaking the rules, please DM a server admin.
-5.  Verification is encouraged and only required when being underage is suspected.  Anyone on the mod team may request you to verify at any time.  All such verification demands will be handled through the Verification System.
+1.  The Server Admins have final authority on all server-related decisions, including, but not limited to, server content, membership, moderator actions, bans, mutes, etc.  Their word is final, without further review.  Admins have wide-sweeping authority and the responsibility that comes with it.
+2.  The Moderators have delegated authority to **mute**, **jail**, and **temporarily ban** any Discord user.  They exercise these permissions for the betterment of the server and to assist in keeping this place safe.  Permanent bans are decided on a case-by-case basis and if a user is found to be particularly toxic or disruptive, may face immediate permanent ban.
+3.  Members who have specific complaints about another member should create a <#752172092426027108>.  Please do not publically denounce someone.
+4.  The Admins and Moderators balance the needs of the community with the specific needs of an individual.  When in doubt, safety and security will supercede the short-term harm that may come to the server.  If you're being harassed by a specific member, please let a staff member know.  Even if they aren't breaking a rule, if someone makes you uncomfortable, **LET US KNOW!!**  We can't help you if we don't know.  If a member of staff is making you uncomfortable, please let a Server Admin know.
+5.  While staff members entrusted with additional responsibility, they are not above the rules.  If you see a staff member breaking the rules, please DM a server admin.
+6.  Verification is encouraged and only required when being underage is suspected.  Anyone on the mod team may request you to verify at any time.  All such verification demands will be handled through the Verification System.
 
 +++
 
@@ -164,7 +164,7 @@ But excessive thirst, especially directed at New Arrivals or Initiates without a
 You are welcome to post SFW selfies in <#752465698391064676>.  However, please follow the following rules:
 
 - Selfies must be SFW and something you would share publicly on Facebook, LinkedIn, or other some other public social networking site.  In other words, you must be clothed appropriately.
-- No children.  Ideally, all persons in the picture should be 18+.  Please use discretion if your friends are under the age of 18.  **The mods have full authority to remove a picture they believe is not appropriate for this server.
+- No children.  Ideally, all persons in the picture should be 18+.  Please use discretion if your friends are under the age of 18.  **The mods have full authority to remove a picture they believe is not appropriate for this server.**
 - Repeatedly posting inappropriate pictures will result in a warning.
 
 +++ 
@@ -173,20 +173,20 @@ You are welcome to post SFW selfies in <#752465698391064676>.  However, please f
 
 **__Rules__**
 
-0.  The Principles are the guiding factor of all Rules and Policies.  We're not here to be lawyers.  Don't try to find loopholes around these rules or you'll face a ban.
-1.  All Discord Guidelines are in effect.
-2.  You affirm that you are 18 years old or older.  Please see "How Underage Members are Handled" for details.
-3.  Using an alt account to circumvent a ban, harass members, or otherwise cause issues will not only result in a permanent ban but be reported to Discord for violation of their Community Guidelines.
-4.  Respect DM settings for all members.  **Do not ping members for DM permission!**  DM permission should occur in-context and while active in chat.  If you share a server with a member, their most restrictive setting applies to this server.  Do not join this server to circumvent DM settings from another server.  Please note: Server Staff will *generally* try to create a <#752172092426027108> attempting to communicate privately with a member.  However, by joining this server, you give permission for a staff member to DM you for server-related issues.
-5.  No Doxxing or exposing of private or personal information without permission.  Do not phish people by creating IP-grabbing links or other similar data gathering methods.
+1.  The Principles are the guiding factor of all Rules and Policies.  We're not here to be lawyers.  Don't try to find loopholes around these rules or you'll face a ban.
+2.  All Discord Guidelines are in effect.
+3.  You affirm that you are 18 years old or older.  Please see "How Underage Members are Handled" for details.
+4.  Using an alt account to circumvent a ban, harass members, or otherwise cause issues will not only result in a permanent ban but be reported to Discord for violation of their Community Guidelines.
+5.  Respect DM settings for all members.  **Do not ping members for DM permission!**  DM permission should occur in-context and while active in chat.  If you share a server with a member, their most restrictive setting applies to this server.  Do not join this server to circumvent DM settings from another server.  Please note: Server Staff will *generally* try to create a <#752172092426027108> attempting to communicate privately with a member.  However, by joining this server, you give permission for a staff member to DM you for server-related issues.
+6.  No Doxxing or exposing of private or personal information without permission.  Do not phish people by creating IP-grabbing links or other similar data gathering methods.
 
 -- message break --
 
-6.  Do not DM or Ping "New Arrivals" or fresh "Initiates" unless you are a staff member.  At least let them breath a bit first before you hound them.
-7.  Try to keep on the channel's topic or specific purpose.  All channels except for <#752095507618463765> are labeled NSFW.  That being said, please keep NSFW content within context as best as possible.
-8.  Self-promotion is only allowed within context and within approved channels.  For example, telling people you make stuff on etsy is completely ok.  But if that's all you chat about, then that's not allowed.
-9.  This is an English-speaking server.  Please keep other langauges within context.
-10.  Repeatedly causing drama will not be tolerated.  Drama is a part of life and things will naturally happen.  But doing so on a repeated and public basis will result in moderator action.
+7.  Do not DM or Ping "New Arrivals" or fresh "Initiates" unless you are a staff member.  At least let them breath a bit first before you hound them.
+8.  Try to keep on the channel's topic or specific purpose.  All channels except for <#752095507618463765> are labeled NSFW.  That being said, please keep NSFW content within context as best as possible.
+9.  Self-promotion is only allowed within context and within approved channels.  For example, telling people you make stuff on etsy is completely ok.  But if that's all you chat about, then that's not allowed.
+10.  This is an English-speaking server.  Please keep other langauges within context.
+11.  Repeatedly causing drama will not be tolerated.  Drama is a part of life and things will naturally happen.  But doing so on a repeated and public basis will result in moderator action.
 
 **"We know it when we see it"**:  There may not be a rule for it.  But we know when someone is trying to be sneaky or creepy.  If it is suspected that this is the case for you, you will be warned or worse.  
 
@@ -198,5 +198,5 @@ All rules and policies are subject to change, but are version controlled.  It is
 
 +++
 
-This is version **1.1** and was last edited on 9/20/2020.  For details regarding changes between this version and the last version, please visit the last pull request: <https://github.com/kmorris896/rapture-discord-server-documentation/pull/1>
+This is version **1.1.1** and was last edited on 9/23/2020.  For details regarding changes between this version and the last version, please visit the last pull request: <https://github.com/kmorris896/rapture-discord-server-documentation/pull/2>
 
