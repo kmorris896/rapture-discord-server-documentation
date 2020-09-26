@@ -18,9 +18,7 @@ Carl-bot is a general server administration bot that provides reaction-based rol
 
 Due to the nature of the bot, it has administrative rights to the server and can see all channels.
 
-+++ 
-
--- message break --
++++
 
 <@473370418007244852>
 
