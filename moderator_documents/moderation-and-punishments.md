@@ -56,6 +56,8 @@ Some examples:
 
 Mutes will show in #mod-actions **BUT** will not warn the user.  It's recommended that you issue both a warning and a mute at the same time.
 
+After the jail lifts, you may want to purge the Jail channel.
+
 
 ### Bans
 
