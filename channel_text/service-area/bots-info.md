@@ -37,3 +37,9 @@ Any <@&755154401848590448> can invoke the Emote Manager.
 Tickets is used to in <#752172092426027108> and is used to create service tickets.  It can only see the Support Ticket channel, along with the "Service Tickets" category, which remains hidden unless a user has an active ticket.
 
 +++
+
+<@302050872383242240>
+
+Disboard is a server-discovery website that requires members to "bump" servers to the top of their website every 2 hours.  Besides the admin channels, Disboard only has access to <#758133041213210635> where users may issue the `!d bump` command.
+
++++
