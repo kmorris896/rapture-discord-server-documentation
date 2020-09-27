@@ -1,8 +1,8 @@
 ---
-layout: page
-title: "Support Ticket"
-permalink: channel-support-ticket.html
+sort: 2
 ---
+
+# Support Ticket
 
 **__Support Ticket__**
 
