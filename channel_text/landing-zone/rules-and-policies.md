@@ -85,7 +85,7 @@ Pictures must be submitted within 6 hours of the picture being taken and cannot 
 
 Example of a selfie with your username, server name, and date and time:
 
-https://github.com/kmorris896/rapture-discord-server-documentation/raw/friend-request-addition/channel_text/landing-zone/images/VerificationSelfie.png
+https://github.com/kmorris896/rapture-discord-server-documentation/raw/main/channel_text/landing-zone/images/VerificationSelfie.png
 
 -- message break --
 
@@ -93,7 +93,7 @@ In all three methods, a picture of a government-issued identification will be re
 
 Example of a government-issued identification:
 
-https://github.com/kmorris896/rapture-discord-server-documentation/raw/friend-request-addition/channel_text/landing-zone/images/MaskedPassport.jpg
+https://github.com/kmorris896/rapture-discord-server-documentation/raw/main/channel_text/landing-zone/images/MaskedPassport.jpg
 
 -- message break -- 
 
@@ -198,5 +198,5 @@ All rules and policies are subject to change, but are version controlled.  It is
 
 +++
 
-This is version **1.2** and was last edited on 9/30/2020.  For details regarding changes between this version and the last version, please visit the last pull request: <https://github.com/kmorris896/rapture-discord-server-documentation/pull/4>
+This is version **1.2.1** and was last edited on 9/30/2020.  For details regarding changes between this version and the last version, please visit the last pull request: <https://github.com/kmorris896/rapture-discord-server-documentation/pull/5>
 
