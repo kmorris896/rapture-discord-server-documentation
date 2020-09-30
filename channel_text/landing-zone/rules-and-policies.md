@@ -182,7 +182,7 @@ You are welcome to post SFW selfies in <#752465698391064676>.  However, please f
 
 -- message break --
 
-7.  Do not DM or Ping "New Arrivals" or fresh "Initiates" unless you are a staff member.  At least let them breath a bit first before you hound them.
+7.  Do not DM, send Friend Requests, or ping "New Arrivals" or fresh "Initiates" unless you are a staff member.  At least let them breath a bit first before you hound them.
 8.  Try to keep on the channel's topic or specific purpose.  All channels except for <#752095507618463765> are labeled NSFW.  That being said, please keep NSFW content within context as best as possible.
 9.  Self-promotion is only allowed within context and within approved channels.  For example, telling people you make stuff on etsy is completely ok.  But if that's all you chat about, then that's not allowed.
 10.  This is an English-speaking server.  Please keep other langauges within context.
