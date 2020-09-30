@@ -63,7 +63,7 @@ The server utilizes many bots to ease the burden of performing administrative ac
 
 The server admins invite bots to the server after careful consideration to the benefits of its features and weighing it against the privacy of server members.  Server admins do not have any control over how third-party bots log or monitor usage.  When the decision is made to invite a bot, it is done for the hopes of bettering the server.  With that in mind, please understand that being on this server (or just having an account with Discord) means that your messages may be logged by us, Discord, or bot developers and we may not have much control on what is being done with that information.  
 
-While the admins will attempt to announce the addition or removal of a bot, please note that they may be invited or kicked with no notice.
+Specific bot information and which channels they have access to is noted in <#759223598337622027>
 
 +++
 
@@ -85,7 +85,7 @@ Pictures must be submitted within 6 hours of the picture being taken and cannot 
 
 Example of a selfie with your username, server name, and date and time:
 
-https://github.com/kmorris896/rapture-discord-server-documentation/raw/main/docs/public-channels/images/VerificationSelfie.png
+https://github.com/kmorris896/rapture-discord-server-documentation/raw/friend-request-addition/channel_text/landing-zone/images/VerificationSelfie.png
 
 -- message break --
 
@@ -93,7 +93,7 @@ In all three methods, a picture of a government-issued identification will be re
 
 Example of a government-issued identification:
 
-https://github.com/kmorris896/rapture-discord-server-documentation/raw/main/docs/public-channels/images/MaskedPassport.jpg
+https://github.com/kmorris896/rapture-discord-server-documentation/raw/friend-request-addition/channel_text/landing-zone/images/MaskedPassport.jpg
 
 -- message break -- 
 
@@ -177,12 +177,12 @@ You are welcome to post SFW selfies in <#752465698391064676>.  However, please f
 2.  All Discord Guidelines are in effect.
 3.  You affirm that you are 18 years old or older.  Please see "How Underage Members are Handled" for details.
 4.  Using an alt account to circumvent a ban, harass members, or otherwise cause issues will not only result in a permanent ban but be reported to Discord for violation of their Community Guidelines.
-5.  Respect DM settings for all members.  **Do not ping members for DM permission!**  DM permission should occur in-context and while active in chat.  If you share a server with a member, their most restrictive setting applies to this server.  Do not join this server to circumvent DM settings from another server.  Please note: Server Staff will *generally* try to create a <#752172092426027108> attempting to communicate privately with a member.  However, by joining this server, you give permission for a staff member to DM you for server-related issues.
+5.  Respect DM/FR settings for all members.  **Do not ping members for DM/FR permission!**  DM and FR permission should occur in-context and while active in chat.  If you share a server with a member, their most restrictive setting applies to this server.  Do not join this server to circumvent DM settings from another server.  Please note: Server Staff will *generally* try to create a <#752172092426027108> attempting to communicate privately with a member.  However, by joining this server, you give permission for a staff member to DM you for server-related issues.
 6.  No Doxxing or exposing of private or personal information without permission.  Do not phish people by creating IP-grabbing links or other similar data gathering methods.
 
 -- message break --
 
-7.  Do not DM or Ping "New Arrivals" or fresh "Initiates" unless you are a staff member.  At least let them breath a bit first before you hound them.
+7.  Do not DM, send Friend Requests, or ping "New Arrivals" or fresh "Initiates" unless you are a staff member.  At least let them breath a bit first before you hound them.
 8.  Try to keep on the channel's topic or specific purpose.  All channels except for <#752095507618463765> are labeled NSFW.  That being said, please keep NSFW content within context as best as possible.
 9.  Self-promotion is only allowed within context and within approved channels.  For example, telling people you make stuff on etsy is completely ok.  But if that's all you chat about, then that's not allowed.
 10.  This is an English-speaking server.  Please keep other langauges within context.
@@ -198,5 +198,5 @@ All rules and policies are subject to change, but are version controlled.  It is
 
 +++
 
-This is version **1.1.1** and was last edited on 9/23/2020.  For details regarding changes between this version and the last version, please visit the last pull request: <https://github.com/kmorris896/rapture-discord-server-documentation/pull/2>
+This is version **1.2** and was last edited on 9/30/2020.  For details regarding changes between this version and the last version, please visit the last pull request: <https://github.com/kmorris896/rapture-discord-server-documentation/pull/4>
 

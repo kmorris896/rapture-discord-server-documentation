@@ -20,14 +20,6 @@ Due to the nature of the bot, it has administrative rights to the server and can
 
 +++
 
-<@473370418007244852>
-
-Emote Manager is a bot that makes it easier to add and import emojis.  At current, this bot only has access to the <#755144952023089172> channel and the "bot admin" channel that is only available to moderators.
-
-Any <@&755154401848590448> can invoke the Emote Manager.
-
-+++
-
 -- message break --
 
 <@508391840525975553>
