@@ -31,6 +31,31 @@ Generally speaking, patches to the rules (the last kind of change), will be done
 
 -- message break --
 
+**__We are, first and foremost, a community__**
+
+Rapture has many features: toy control, picture sharing, and most importantly: chat and VC.
+
+You should treat this server like you would your local kink/BDSM group or maybe even your local bar.  While we've all come here for the general purpose of exploring BDSM, toy control, and other kinky things, we are also here to get to know each other.  To that end, the expectation is that you participate in discussions on a some-what regular basis.
+
+Lurking in <#752462620509995039> or only commenting in pictures is not really what we're about.  We know that everyone is chatty but we hope that you will at least say "hi" from time to time.
+
+-- message break --
+
+To that end, we may politely kick "inactive" users every few weeks.  Inactive is defined as:
+
+- Non-members who have not accepted the rules within 48 hours of joining
+- Members who have not chatted within a week
+- Members who only chat in <#752462620509995039> or in pic/media channels
+
+Understandably, we know that people need breaks or go on vacation.  That's OK.  Just go to <#761402092107595797> and state you'll be going on vacation.  You don't need to give us dates or anything but your post there will exempt you from any inactivity kicks for up to two weeks or whenever the next mass server kick will be.
+
+Please don't abuse this feature.  If you try to go around this rule "going on vacation" every two weeks, we'll kick you anyway.
+
+
++++
+
+-- message break --
+
 **__"Competing" Servers and Server Invites __**
 
 We know you have your choice of servers and we thank you for joining ours.  In order to keep membership harassment to a minimum, we ask that you refrain from advertising other BDSM servers in-channel.  We want to be supportive and encourage everyone to explore and share these other servers in established DMs.
