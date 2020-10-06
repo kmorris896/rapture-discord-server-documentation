@@ -223,5 +223,5 @@ All rules and policies are subject to change, but are version controlled.  It is
 
 +++
 
-This is version **1.2.1** and was last edited on 9/30/2020.  For details regarding changes between this version and the last version, please visit the last pull request: <https://github.com/kmorris896/rapture-discord-server-documentation/pull/5>
+This is version **1.3** and was last edited on 10/6/2020.  For details regarding changes between this version and the last version, please visit the last pull request: <https://github.com/kmorris896/rapture-discord-server-documentation/pull/7>
 
