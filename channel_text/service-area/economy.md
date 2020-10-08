@@ -1,22 +1,26 @@
 ---
 sort: 3
+cSpell: ignore waifu
 ---
 
 # Economy
 
-<@763577946211745814> (Name may change) is a self-hosted version of the NadekoBot (<https://gitlab.com/Kwoth/nadekobot>).  Full commands can be found on their website (<https://nadeko.bot/commands>) but keep in mind that the server the following modules enabled:
+<@763577946211745814> (Name may change) is a self-hosted version of the NadekoBot (<https://gitlab.com/Kwoth/nadekobot>).  Full commands can be found on their website (<https://nadeko.bot/commands>) but keep in mind that the server only has the following modules enabled:
 
 - **gambling**
 -- "WaifuClaimCommands" disabled
+-- "FlowerShopCommands" disabled
+-- all other gambling games can be played in <#758133041213210635>
 - **games**
 -- only the `.pick` command are available in the chat channels
 -- all other games can be played in <#758133041213210635>
 
-Please note that this is very experimental.  I'll try to keep settings relatively stable but data loss (and thus accumilated peels) is possible.  Don't go *too* wild claiming peels.
+Please note that this is very experimental.  I'll try to keep settings relatively stable but data loss (and thus accumulated peels) is possible.  Don't go *too* wild claiming peels.
 
 +++
 
 ```
+# cspell:disable
 # disable all modules
 .asm disable
 
@@ -35,6 +39,7 @@ Please note that this is very experimental.  I'll try to keep settings relativel
 .sc .divorce disable
 .sc .affinity disable
 .sc .waifustats disable
+.sc .shop disable
 
 # Set Currency
 .bce CurrencyName Banana Peel
