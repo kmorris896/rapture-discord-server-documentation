@@ -33,3 +33,21 @@ Tickets is used to in <#752172092426027108> and is used to create service ticket
 Disboard is a server-discovery website that requires members to "bump" servers to the top of their website every 2 hours.  Besides the admin channels, Disboard only has access to <#758133041213210635> where users may issue the `!d bump` command.
 
 +++
+
+<@234395307759108106>
+
+Groovy as a bot that plays music in VC channels. It only has access to <#763178904595988520> and <#763178861491519498>. Access to other channels is being evaluated. If this would be of value to you, please be sure to suggest it in <#754995041117798480>.
+
+The bot has been server-deafened, meaning that it cannot hear anything in VC channels.
+
++++
+
+-- message break --
+
+<@763577946211745814>
+
+Banana Peels Bot (Name may change) is a self-hosted version of the NadekoBot (<https://gitlab.com/Kwoth/nadekobot>).  While this bot has the ability to read messages made on the server, it is mostly restricted to channels under the "Chat" channel category as well as <#758133041213210635>.  This is Rapture's official economy bot.  For details on how the economy works, please see <#763754268482076672>.
+
+Please note: This bot is currently experimental on the server.  Economy may shift widely as settings are changed.  Your accumilated peels may change, be removed, etc. without notice.  While the goal is to make this stable, if you lose your peels between server updates...oh well.  :wink:
+
++++
