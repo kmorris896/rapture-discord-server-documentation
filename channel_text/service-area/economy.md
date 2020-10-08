@@ -12,7 +12,7 @@ cSpell: ignore waifu
 -- "FlowerShopCommands" disabled
 -- all other gambling games can be played in <#758133041213210635>
 - **games**
--- only the `.pick` command are available in the chat channels
+-- only the `.pick` and `.plant` commands are available in the chat channels
 -- all other games can be played in <#758133041213210635>
 
 Please note that this is very experimental.  I'll try to keep settings relatively stable but data loss (and thus accumulated peels) is possible.  Don't go *too* wild claiming peels.
@@ -30,6 +30,7 @@ Please note that this is very experimental.  I'll try to keep settings relativel
 
 # enable .pick server-wide
 .sc .pick enable
+.sc .plant enable
 
 # disable waifus
 .sc .claim disable
@@ -49,6 +50,9 @@ Please note that this is very experimental.  I'll try to keep settings relativel
 # Set Timely
 # 5 peels every 2 hours, total of 60 daily
 .timelyset 5 2
+
+# Currency Generation: drop 2 peels
+.bce CurrencyDropAmount 2
 
 # Daily Currency Decay to control inflation, currently disabled
 # .bce DailyCurrencyDecay 0.05
