@@ -4,7 +4,7 @@ sort: 1
 
 # Theme of the Week
 
-**Theme of the Week** is a weekly picture "train" where you post selfies (SFW and NSFW).  Each picture earns you :banana: 5 with a limit of :banana: 25 total you can earn this way.
+**Theme of the Week** is a weekly picture "theme" where you post selfies (SFW and NSFW).  Each picture earns you :banana: 5 with a limit of :banana: 25 total you can earn this way.
 
 The theme of the week is announce in this channel and previous themes are deleted.
 
