@@ -10,5 +10,5 @@ I am proud to announce Rapture's first partnership: **The Keep**
 
 If you are verified here, you don't have to verify there and vice versa (subject to Rapture rules about re-verification).
 
-https://discord.gg/FtUeT6
+https://discord.gg/77B3Sr6
 
