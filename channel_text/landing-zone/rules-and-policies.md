@@ -64,7 +64,7 @@ Please note that while you are welcome here, we reserve the right to limit your 
 - The above does not apply to "personal" servers so long as:
 >  - They are not advertised on Discord's server discovery feature, Disboard or similar website 
 >  - People are invited individually, i.e. there is no generalized invite that is shared among non-friends
->  - The total number of members on the server is 100 people or less.  Personal servers
+>  - The total number of members on the server is 100 people or less.  Personal servers with more people should create a <#752172092426027108> prior to creating an introduction.
 
 We're not asking much here and believe this balances the desire to hang out as well as maintaining transparency.  You are welcome to use an alt account to maintain anonymity, so long as these alts follow the policy outlined in "Alts/Multiple Accounts" below.  However, using an alt account to **circumvent** this policy is not only rude but bad form.  When creating your support ticket, please indicate that you are using an alt.  We *may* ask you verify your primary account at the discretion of the admins.  
 
@@ -215,5 +215,5 @@ Generally speaking, patches to the rules (the last kind of change), will be done
 
 +++
 
-This is version **1.3** and was last edited on 10/6/2020.  For details regarding changes between this version and the last version, please visit the last pull request: <https://github.com/kmorris896/rapture-discord-server-documentation/pull/7>
+This is version **1.3.1** and was last edited on 10/10/2020.  For details regarding changes between this version and the last version, please visit the last pull request: <https://github.com/kmorris896/rapture-discord-server-documentation/pull/9>
 
