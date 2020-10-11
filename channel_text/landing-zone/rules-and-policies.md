@@ -114,11 +114,31 @@ https://github.com/kmorris896/rapture-discord-server-documentation/raw/main/chan
 
 Your identity is of paramount importance and we will not store or save pictures you send us.  We highly recommend you delete the pictures from chat once the mod has accepted them.
 
-Please note that mods can request you re-verify at anytime.  While rare, if we suspect you are posting content that is not your own, we may remove your verification role, jail you, and request you re-verify.  The mod team will make use of <#752172092426027108> and will **NEVER** ask you to verify in DMs.
+Please note that mods can request you re-verify at anytime.  While rare, if we suspect you are posting content that is not your own, we may remove your verification role, jail you, and require you re-verify.  The mod team will make use of <#752172092426027108> and will **NEVER** ask you to verify in DMs.
 
 +++
 
 -- message break --
+
+**__How Underage Members and Catfish are Handled__**
+
+It's important for every member to feel safe in knowing they are talking with (and even possibly playing with) someone who is legally an adult and with someone who is who they say they are.  The staff believe that there is shared responsibility on ensuring the safety of our members.
+
+**The responsibility of all members:**
+If you enter the server and accept the rules, we will accept that you are 18+.  Members who form play partnerships with non-verified members are encouraged to use their best judgement before engaging in sexual play.  This is no different than going to a bar.  Yes, the bar may check for ID but someone underage could be using a fake ID.  Perform your own verification to your satisfaction.
+
+If you suspect a person is underage, please inform the staff immediately with a <#752172092426027108>.
+
+
+**The responsibility of the server staff:**
+The server staff will verify the age and identity of members who choose to verify.  The server values privacy and encourages each member to decide whether sharing their identity with a complete stranger is an acceptable risk.
+
+Server staff will take quick action on reports from members regarding suspected underage members or catfishes.  Members who are suspected of either or other suspicious behavior will be Jailed, at which point they will need to verify within 48 hours or face a Temporary Ban of 1 year from the server.
+
+
++++
+
+-- Message break --
 
 **__Alts/Multiple Accounts__**
 
@@ -147,18 +167,6 @@ Only Jails can be appealed and must be done in the jail channel.
 +++
 
 -- message break --
-
-**__How Underage Members are Handled__**
-
-It's important for every member to feel safe in knowing they are talking with (and even possibly playing with) someone who is legally an adult.  The staff believe that there is shared responsibility on ensuring the safety of our members.
-
-If you enter the server and accept the rules, we will accept that you are 18+.  However, a member of the mod team believes you are underage, you will be Jailed and at which point you will need to verify within 48 hours or face a Temporary Ban of 1 year from the server.
-
-If you suspect a person is underage, please inform the staff immediately with a <#752172092426027108>.
-
-+++
-
--- Message break --
 
 **__Thirst__**
 
