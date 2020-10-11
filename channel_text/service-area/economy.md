@@ -37,11 +37,12 @@ Please note that this is very experimental.  I'll try to keep settings relativel
 
 -- message break --
 
++++
+
 **__The Store__**
 
 To purchase an item, you may tell me within the server, DM me, or create a <#752172092426027108>.
 
-+++
 
 **__Picture Themes__**
 Only one theme can be active at one time
