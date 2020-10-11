@@ -14,3 +14,8 @@
 * [640px-Ray_of_Light_on_Cap_Haitien,_Haiti_(7908717282).jpg](./640px-Ray_of_Light_on_Cap_Haitien,_Haiti_(7908717282).jpg)
   * License via CC-BY 2.0 Generic by Alex Proimos
   * Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ray_of_Light_on_Cap_Haitien,_Haiti_(7908717282).jpg)
+
+* [Banana18.png](./Banana18.png)
+  * License via CC-SA 4.0 by Pppoooiii3
+  * Source: [Wikipedia Commons](https://commons.wikimedia.org/wiki/File:Banana18.png)
+  
