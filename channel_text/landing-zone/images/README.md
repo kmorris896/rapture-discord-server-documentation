@@ -12,10 +12,20 @@
   * Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Passport_card.jpg)
 
 * [640px-Ray_of_Light_on_Cap_Haitien,_Haiti_(7908717282).jpg](./640px-Ray_of_Light_on_Cap_Haitien,_Haiti_(7908717282).jpg)
-  * License via CC-BY 2.0 Generic by Alex Proimos
+  * Licensed via CC-BY 2.0 Generic by Alex Proimos
   * Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ray_of_Light_on_Cap_Haitien,_Haiti_(7908717282).jpg)
 
-* [Banana18.png](./Banana18.png)
-  * License via CC-SA 4.0 by Pppoooiii3
+* [Banana Bot pfp.png](./Banana18.png)
+  * Licensed via CC-SA 4.0 by Pppoooiii3
   * Source: [Wikipedia Commons](https://commons.wikimedia.org/wiki/File:Banana18.png)
+
+* [banana-in-peel-1.jpg](./banana-in-peel-1.jpg)
+  * Licensed via [Pixabay](https://pixabay.com/service/license/)
+  * Image by [Bruno /Germany](https://pixabay.com/users/bru-no-1161770/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3112308)
+  * Source: [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3112308)
+
+* [simple-banana-peeled.png](./simple-banana-peeled.png)
+  * Public Domain
+  * Source: [creazilla](https://creazilla.com/nodes/28367-simple-banana-peeled-clipart)
+
   
