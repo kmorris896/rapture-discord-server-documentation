@@ -22,10 +22,10 @@ The currency of the server is called "Banana Peels".  Peels are earned in one of
 
 -- message break --
 
-```
-# provide a list of all channels where .gc is enabled
-.gclist
-```
+- <#752154612798062612>
+- <#752462096104423536>
+
++++
 
 -- message break -- 
 
@@ -68,6 +68,13 @@ You must receive the member's permission before purchasing any of these roles.
 ```
 # cspell:disable
 
+Permissions needed by the bot:
+- Read Messages
+- Send Messages
+- Manage Messages  (Allows to delete command invocations)
+- Embed Links
+- Add Reactions
+
 # disable all modules
 .asm disable
 
@@ -104,6 +111,10 @@ You must receive the member's permission before purchasing any of these roles.
 # Currency Generation: drop 2 peels
 .bce CurrencyDropAmount 2
 
+# Set the chance of generating currency to 99%
+.bce CurrencyGenerationChance .99
+
 # Daily Currency Decay to control inflation, currently disabled
 # .bce DailyCurrencyDecay 0.05
+
 ```
