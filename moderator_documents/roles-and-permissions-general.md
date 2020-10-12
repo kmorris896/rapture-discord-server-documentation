@@ -42,7 +42,9 @@ New members need to complete an introduction as well as select roles for their p
 If their introduction and profile are missing things, ping them in "Initiate Chat".  If they make the corrections as needed and are ready to be initiated, issue the following command:
 
 ```
-!role custom USER_ID +<@&752090174737088583> +<@&752090540371345488> -<@&752090021967953991>
+!role custom USER_ID +<@&752090540371345488> -<@&752090021967953991>
+
+!temprole USERID 14d <@&752090174737088583>
 ```
 
 This will add the "Initiate" and "Member" roles to the user and remove the "Awaiting Initiation" role.
