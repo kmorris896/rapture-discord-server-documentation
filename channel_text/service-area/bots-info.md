@@ -28,7 +28,7 @@ Due to the nature of the bot, it has administrative rights to the server and can
 
 +++
 
-<@234395307759108106> is a bot that plays music in VC channels. It only has access to <#763178904595988520> and <#763178861491519498>. Access to other channels is being evaluated. If this would be of value to you, please be sure to suggest it in <#754995041117798480>.
+<@234395307759108106> is a bot that plays music in VC channels. It only has access to <#763178904595988520> and VC Channels <#763178861491519498> and <#756989066398007347>. Access to other channels is being evaluated. If this would be of value to you, please be sure to suggest it in <#754995041117798480>.
 
 The bot has been server-deafened, meaning that it cannot hear anything in VC channels.
 
