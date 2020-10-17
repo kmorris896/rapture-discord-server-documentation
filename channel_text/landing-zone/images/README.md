@@ -28,4 +28,7 @@
   * Public Domain
   * Source: [creazilla](https://creazilla.com/nodes/28367-simple-banana-peeled-clipart)
 
+* [github.png](./github.png)
+  * Copyright Github, used within permitted terms of use
+  * Source and Licensing information: [Github Logos](https://github.com/logos)
   
