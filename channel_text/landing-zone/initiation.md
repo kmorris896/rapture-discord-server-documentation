@@ -35,4 +35,4 @@ All of the above are required fields.  Once you've posted your introduction in <
 
 Remember: you are encouraged to edit your introduction as many times as you'd like but must follow the guidelines listed above.  If you create more than one post, the mods have discretion to delete your oldest post.
 
-Once you are approved, you will be an **Initiate** for about two weeks.  During this time, get to know the server and it's members.  Mods are generally more lienent on initiates but do not abuse or take advantage of this.  Please explore, chat, and familiarize yourself with what we're about.  We hope you enjoy it here.
+Once you are approved, you will be an **Initiate** for about two weeks.  During this time, get to know the server and it's members.  Mods are generally more lenient on initiates but do not abuse or take advantage of this.  Please explore, chat, and familiarize yourself with what we're about.  We hope you enjoy it here.
