@@ -41,3 +41,14 @@ The bot has been server-deafened, meaning that it cannot hear anything in VC cha
 Please note: This bot is currently experimental on the server.  Economy may shift widely as settings are changed.  Your accumulated peels may change, be removed, etc. without notice.  While the goal is to make this stable, if you lose your peels between server updates...oh well.  :wink:
 
 +++
+
+-- message break --
+
+<@646860752321511434> is a small bot that tags users based on activity.  Code of the bot has been reviewed and I have verified that the bot does not store any information after a post processed.  The source code of the bot is available on Github: <https://github.com/bhigginsuk/discord-activity-monitor>
+
+
+This bot is used to enforce the inactivity policy: https://discord.com/channels/752074304224755752/752104497538400306/763876359457603614
+
+Activity is tracked in the all the channels in the following categories:
+- Chat (except Jail)
+- Voice Channels
