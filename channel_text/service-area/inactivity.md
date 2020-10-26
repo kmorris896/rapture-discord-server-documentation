@@ -29,4 +29,4 @@ Feel free to delete your message after you get back.  Messages older than two we
 
 5. Please @mention any members or roles who are to be exempt from being marked/unmarked as active
 
-> <@&752090254021885993> <@&752090357025734756>
+> <@&752090254021885993> <@&752090357025734756> <@&766032746308435999>
