@@ -12,3 +12,5 @@ The server admins will, from time-to-time, issue special roles, commemorating so
 
 - <@&754368982999367760> :: Secret Role - Grants access to a secret channel.  (Added 9/12/2020)
 - <@&758305979967733760> :: Joined before the server went public.  (Added 9/23/2020)
+- <@&766032746308435999> :: Role you can get if you prefer the "Discord Booster" color instead of your gender color.  (Added 10/14/2020)
+- <@&770418123299356702> :: Secret Role given to a secret person for secret reasons.  (Added 10/26/2020)

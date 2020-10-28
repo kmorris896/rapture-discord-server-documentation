@@ -37,7 +37,7 @@ To that end, we may politely kick "inactive" users every few weeks.  Inactive is
 - Members who have not chatted within a week
 - Members who only chat in <#752462620509995039> or in pic/media channels
 
-Understandably, we know that people need breaks or go on vacation.  That's OK.  Just go to <#761402092107595797> and state you'll be going on vacation.  You don't need to give us dates or anything but your post there will exempt you from any inactivity kicks for up to two weeks or whenever the next mass server kick will be.
+Want to be immune?  <@&764842395811446795> are immune to any inactivity kick actions (for now).  But if you can't boost, just go to <#761402092107595797> and state you'll be going on vacation.  You don't need to give us dates or anything but your post there will exempt you from any inactivity kicks for up to two weeks or whenever the next mass server kick will be.
 
 Please don't abuse this feature.  If you try to go around this rule "going on vacation" every two weeks, we'll kick you anyway.
 
@@ -215,5 +215,5 @@ Generally speaking, patches to the rules (the last kind of change), will be done
 
 +++
 
-This is version **1.3.1** and was last edited on 10/10/2020.  For details regarding changes between this version and the last version, please visit the last pull request: <https://github.com/kmorris896/rapture-discord-server-documentation/pull/9>
+This is version **1.3.2** and was last edited on 10/26/2020.  For details regarding changes between this version and the last version, please visit the last pull request: <https://github.com/kmorris896/rapture-discord-server-documentation/pull/12>
 
