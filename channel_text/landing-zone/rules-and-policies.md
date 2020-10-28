@@ -215,5 +215,5 @@ Generally speaking, patches to the rules (the last kind of change), will be done
 
 +++
 
-This is version **1.3.2** and was last edited on 10/26/2020.  For details regarding changes between this version and the last version, please visit the last pull request: <https://github.com/kmorris896/rapture-discord-server-documentation/pull/9>
+This is version **1.3.2** and was last edited on 10/26/2020.  For details regarding changes between this version and the last version, please visit the last pull request: <https://github.com/kmorris896/rapture-discord-server-documentation/pull/12>
 
