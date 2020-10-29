@@ -10,7 +10,7 @@ Selects a random question and posts it in the invoked channel.
 
 ## Script
 
-```
+{% raw %}
 {=(topic):{random:
     What is your favorite piece of art?~
     Who is your favorite artist?~
@@ -286,4 +286,4 @@ Selects a random question and posts it in the invoked channel.
 {=(comment): Make sure that the embed builder has something in it.
 I recommend a period in the description.}
 
-```
+{% endraw %}
