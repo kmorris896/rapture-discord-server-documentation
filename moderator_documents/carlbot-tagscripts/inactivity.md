@@ -5,7 +5,7 @@ TagScript: true
 # Tag: inactivity
 - Command: `!inactivity`
 - Arguments: 
-  - **REQUIRED** reason shortcut:
+  - **REQUIRED** reason shortcut; one of:
     - "rule": For not accepting the rules
     - "intro": For not posting an acceptable intro
     - "inactive": For not being active
