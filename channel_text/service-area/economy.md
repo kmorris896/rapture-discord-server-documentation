@@ -1,6 +1,6 @@
 ---
 sort: 3
-cSpell: ignore waifu
+cSpell: ignore waifu carlbot
 ---
 
 # Economy
@@ -29,7 +29,7 @@ The currency of the server is called "Banana Peels".  Peels are earned in one of
 
 -- message break -- 
 
-All members, including mods and admins, may purchase items listed in the Store below.  And although admins are in the unique position to give away currency, they won't because it will **RUIN THE ECONOMY**.  :rofl:
+All members, including mods and admins, may purchase items listed in the Store below.  And although admins are in the unique position to generate currency, they won't because it will **RUIN THE ECONOMY**.  :rofl:
 
 All items are sold by "the server" and banana peels return to the pool for further distribution.  At this time, you may not buy things from other users.  If there is interest in this, I'll consider it.  
 
@@ -37,29 +37,31 @@ Please note that this is very experimental.  I'll try to keep settings relativel
 
 -- message break --
 
-+++
-
 **__The Store__**
 
 To purchase an item, you may tell me within the server, DM me, or create a <#752172092426027108>.
 
+-- message break --
 
 **__Picture Themes__**
-Only one theme can be active at one time
+Only one purchased theme can be active at one time; Server Themes still applies
 
-- :banana: 100 - 1-Day SFW Picture Theme
-- :banana: 200 - 1-Day NSFW Picture Theme
-- :banana: 300 - 1-Day SFW/NSFW Picture Theme (yes, just add the two together)
+- :banana: 25 - 1-Day SFW Picture Theme
+- :banana: 40 - 1-Day NSFW Picture Theme (Can only be purchased by Verified Members)
+- :banana: 65 - 1-Day SFW/NSFW Picture Theme (yes, just add the two together)
 
 **__Server__**
-- :banana: 1000 - Change <@725742965661761588>'s server nickname once, lasts one day
-- :banana: 1500 - Custom server role with a custom color and role break-out that lasts 1 week
+- :banana: 50 - Add a quote to the server's quote board or have a item pinned to a channel
+- :banana: 100 - Change <@725742965661761588>'s server nickname once, lasts one day
+- :banana: 200 - Add a Carl Trigger of your choosing that lasts a week (Carlbot will react to key words or phrase); Triggers that respond to specific people will require consent from both the target as well as approval from the admin
+- :banana: 400 - Disable a Carl Trigger that the mods put into place for a week.  For example, Carlbot currently reacts to pinging me.
+- :banana: 500 - Custom server role with a custom color and role break-out that lasts 1 week
 
 **__Requires Consent__**
-You must receive the member's permission before purchasing any of these roles.
+You must receive the member's permission before purchasing any of these items.
 
-- :banana: 500 - Change a member's nickname once, lasts for one day.
-- :banana: 1500 - Custom server role with a custom color and role break-out that lasts 1 week
+- :banana: 50 - Change a member's nickname once, lasts for one day.
+- :banana: 500 - Custom server role with a custom color and role break-out that lasts 1 week
 
 *More items may be added over time.  Feel free to make your suggestions over in <#754995041117798480>.*
 
