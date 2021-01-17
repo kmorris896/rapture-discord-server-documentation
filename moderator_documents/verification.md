@@ -12,7 +12,7 @@ Verifying users is relatively straight forward.  All verification attempts requi
 
 The example that is posted on the server:
 
-![Image of a Censored License](https://github.com/kmorris896/rapture-discord-server-documentation/raw/main/channel_text/landing-zone/images/MaskedPassport.jpg)
+![Image of a Censored License](https://github.com/kmorris896/rapture-discord-server-documentation/raw/main/channel_text/images-and-assets/MaskedPassport.jpg)
 
 Obviously, check to make sure that the person is 18 years old.  FYI: **Their birthday must be before or today 2002.**
 
