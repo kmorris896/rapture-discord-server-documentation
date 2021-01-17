@@ -91,11 +91,12 @@ Specific bot information and which channels they have access to is noted in <#75
 Verification is required if you wish to post lewds or nudes.  It also grants you access to verification-specific channels such as gender support channels as well as a verified classifieds channel.
 
 While Verifying is **HIGHLY ENCOURAGED AND RECOMMENDED**, it is not required.  In order to verify, please create a <#752172092426027108>.  Verification occurs in one of three methods:
-- **VC with Video**: You will join a moderator on video chat.  He/She will ask you some questions and you'll be done.  Simplist way to verify.
 - **Adult Website Verification**: If you are a verified member on a website such as OnlyFans, PornHub, etc. please let your moderator know.  You will be required to prove your identity.
 - **Picture verification**: You will be required to take at least two pictures: 
+
 > - Selfie with a **hand-written sign** that has the server name, your Discord Username and Discriminator (the four digit code that comes after the `#`), and the date and time.
 > - A second selfie that you will take during verification.  
+
 Pictures must be submitted within 6 hours of the picture being taken and cannot use any filters.
 
 -- message break -- 
