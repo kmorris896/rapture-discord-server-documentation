@@ -16,7 +16,7 @@ Provides instructions on how to verify.
 
 {% raw %}
 ```
-{=(validCommands):verify rules policies}
+{=(validCommands):verify rules policies inactive invite}
 
 {=():Invalid shortcut "{1}"; must me one of: {validCommands}}
 
@@ -24,6 +24,8 @@ Provides instructions on how to verify.
 {=(policies):NCKkQKWP}
 {=(rules):NCKkQKWP}
 {=(verify):gvwGFW90}
+{=(inactive):5fQrhBgT}
+{=(invite):85nB1sMz}
 
 {=(embedBin):{{L1}}}
 
@@ -42,10 +44,27 @@ Provides instructions on how to verify.
 ```
 {% endraw %}
 
-### Verify
+
+### verify
 
 {% raw %}
 ```
 {"title":"💬 How To Verify","description":"[Verification Instructions](https://discord.com/channels/752074304224755752/752104497538400306/763876523517542461)","color":8311585}
+```
+{% endraw %}
+
+
+### inactive
+{% raw %}
+```
+{"title":"⏰Inactivity Policy","description":"This server prides itself in having **active** membership.  We'd rather our membership numbers reflect the total number of people who participate than have a high count.\n\nDetails regarding our [Inactivity policy are available](https://discord.com/channels/752074304224755752/752104497538400306/763876359457603614).  If you want to tell us you won't be available, post in <#761402092107595797>","color":8311585}
+```
+{% endraw %}
+
+
+### invite
+{% raw %}
+```
+{"title":"📨 Server Invite","description":"Want to invite someone?  Here is the Invite link:\n\n`https://discord.com/invite/hRSHvBd`","color":8311585}
 ```
 {% endraw %}
