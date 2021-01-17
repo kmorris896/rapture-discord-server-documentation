@@ -31,7 +31,9 @@ Please note staff members are permitted to DM for server-related tasks as needed
 
 +++
 
-Select your gender.  You are welcome to self-identify here.  Please make your choice carefully.  Once selected you will need to create a <#752172092426027108> to change it.
+Select your gender.  You are welcome to self-identify here.  When you select the appropriate reaction, Carl-bot will immediately remove it but will grant you the role.
+
+Please make your choice carefully.  Once selected you will need to create a <#752172092426027108> to change it.
 
 :male_sign: Male
 :female_sign: Female
@@ -57,7 +59,9 @@ Select your gender.  You are welcome to self-identify here.  Please make your ch
 
 +++
 
-Select your age.  Once set, changing it requires a support ticket.  Please select your honest age range.
+Select your age.  Once set, changing it requires a support ticket.  Please select your honest age range.  
+
+When you select the appropriate reaction, Carl-bot will immediately remove it but will grant you the role.
 
 :baby_chick: 18-23
 :chicken: 24-29
@@ -106,6 +110,8 @@ Select as many sexual preferences as you'd like.  You can change these as often 
 Select as many pingable roles as you would like.  You can change these as often as you prefer.
 
 :video_game: Controller: I would like to be pinged when someone requests a toy controller
+:speaker: General VC: I would like to be pinged for voice-chat (This role will most likely deleted once this server has 50 people)
+:game_die: Games: I would like to be pinged when the server is playing games (e.g. Cards Against Humanity, Among Us, etc.  NOT for streaming games.)
 :movie_camera: Movies: I would like to be pinged for Movies
 :partying_face: Display: I would like to be pinged for Displays
 :calendar_spiral: Other Events: I would like to be pinged for Server Events
@@ -114,6 +120,8 @@ Select as many pingable roles as you would like.  You can change these as often 
 ```
 !rr addmany <#752159904722190387> MESSAGE_ID 
 :video_game: <@&752295305382330389>
+:speaker: <@&771815629270941736>
+:game_die: <@&771864559601844234>
 :movie_camera: <@&752454714850934804>
 :partying_face: <@&752454831192670268>
 :calendar_spiral: <@&752454710774071326>

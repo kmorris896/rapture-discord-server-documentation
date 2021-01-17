@@ -42,10 +42,6 @@ Please note: This bot is currently experimental on the server.  Economy may shif
 
 +++
 
-<@646860752321511434> is a small bot that tags users based on activity.  Code of the bot has been reviewed and I have verified that the bot does not store any information after a post processed.  The source code of the bot is available on Github: <https://github.com/bhigginsuk/discord-activity-monitor>
+<@792480287614435329> is a small bot that was written by <@725742965661761588> to temporarily grant selected users full admin privileges for a set amount of time.  The source code is available here: <https://github.com/kmorris896/sudo-bot/>.
 
-This bot is used to enforce the inactivity policy: https://discord.com/channels/752074304224755752/752104497538400306/763876359457603614
-
-Activity is tracked in the all the channels in the following categories:
-- Chat (except Jail)
-- Voice Channels
+It is only available in the admin section of the server.

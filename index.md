@@ -8,7 +8,7 @@ summary: This site contains the documentation for Rapture, a BDSM-themed Discord
 
 # Welcome to Rapture
 
-Rapture is a BDSM-themed Discord Server.  It is currently invite-only.
+[Rapture is a BDSM-themed Discord Server](https://discord.gg/amx6QA5).
 
 This site has all of the documentation that is used on the server, including rules, policies, text, etc.  It also has the moderation manual that is used by the moderation team.
 
