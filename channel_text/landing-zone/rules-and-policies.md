@@ -107,7 +107,7 @@ https://github.com/kmorris896/rapture-discord-server-documentation/raw/main/chan
 
 -- message break --
 
-In all three methods, a picture of a government-issued identification will be required.  You can mask/cover everything except your picture, your date of birth, and your gender.  While we care about how you self-identify, gender is used to help us get weed out catfishes.
+In all methods, a picture of a government-issued identification will be required.  You can mask/cover everything except your picture, your date of birth, and your gender.  While we care about how you self-identify, gender is used to help us get weed out catfishes.
 
 Example of a government-issued identification:
 

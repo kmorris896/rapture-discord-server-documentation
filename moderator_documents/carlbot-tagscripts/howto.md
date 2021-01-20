@@ -49,7 +49,7 @@ Provides instructions on how to verify.
 
 {% raw %}
 ```
-{"title":"💬 How To Verify","description":"[Verification Instructions](https://discord.com/channels/752074304224755752/752104497538400306/763876523517542461)","color":8311585}
+{"title":"💬 How To Verify","description":"Verification is a great way to let members know that you are, indeed, a legal adult as well as the selected gender.  It also grants you access to the verified channels where members post their own pictures.\n\n- [Verification Guidelines](https://kmorris896.github.io/rapture-discord-server-documentation/moderator_documents/verification.html)\n\nTL;DR: Create a <#752172092426027108> and be prepared to upload a picture of your license (with personal information optionally covered).  Then choose to verify either with a selfie or other adult verification.","color":8311585}
 ```
 {% endraw %}
 
