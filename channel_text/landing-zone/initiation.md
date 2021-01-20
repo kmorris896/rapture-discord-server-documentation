@@ -8,7 +8,7 @@ sort: 3
 
 You will see a few more channels now.  <#760644474127908925> is now available if you have any questions regarding the rules or the server.  Keep in mind that slow-mode is activated so you can only send a message every few seconds, longer if the server is being raided.
 
-Before you gain access to the rest of the server, you must create an introduction and fill out your <#752159904722190387>.  This helps everyone get to know you a bit.  For your introduction, please use this format:
+Before you gain access to the rest of the server, you must create an introduction.  This helps everyone get to know you a bit.  For your introduction, please use this format:
 
 -- message break --
 
@@ -31,7 +31,9 @@ Before you gain access to the rest of the server, you must create an introductio
 
 Introductions must be posted within 48 hours of your arrival.  If you haven't done that, we'll politely give you a server kick.  You're welcome back any time but we try to keep people active and moving in the server.
 
-All of the above are required fields.  Copy the template and paste it into <#760644474127908925>.  Depending on Timezones, etc, it might take some time for a mod to approve it.
+When you're ready to post an introduction, please create a <#752172092426027108>.
+
+All of the above are required fields.  Depending on Timezones, etc, it might take some time for a mod to approve it.
 
 Remember: you are encouraged to edit your introduction as many times as you'd like but must follow the guidelines listed above.  If you create more than one post, the mods have discretion to delete your oldest post.
 
