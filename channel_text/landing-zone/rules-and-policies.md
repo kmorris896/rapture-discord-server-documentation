@@ -29,15 +29,17 @@ Rapture has many features: toy control, picture sharing, and most importantly: c
 
 You should treat this server like you would your local kink/BDSM group or maybe even your local bar.  While we've all come here for the general purpose of exploring BDSM, toy control, and other kinky things, we are also here to get to know each other.  To that end, the expectation is that you participate in discussions on a some-what regular basis.
 
-Lurking in <#752462620509995039> or only commenting in pictures is not really what we're about.  We know that everyone isn't always chatty but we hope that you will at least say "hi" from time to time.
+In order to be considered active, you must actively contribute to a discussion in our general chat channels.  Picture channels do not count.  Please take the time to get to know us and I promise we'll do the same.
+
+Lurking in for Control Links or only commenting in pictures is not really what we're about.  We know that everyone isn't always chatty but we hope that you will at least say "hi" from time to time.
 
 To that end, we may politely kick "inactive" users every few weeks.  Inactive is defined as:
 
 - Non-members who have not accepted the rules or posted an introduction within 48 hours of joining
 - Members who have not chatted within a week
-- Members who only chat in <#752462620509995039> or in pic/media channels
+- Members who only chat in toy control or in pic/media channels
 
-Want to be immune?  <@&764842395811446795> are immune to any inactivity kick actions (for now).  But if you can't boost, just go to <#761402092107595797> and state you'll be going on vacation.  You don't need to give us dates or anything but your post there will exempt you from any inactivity kicks for up to two weeks or whenever the next mass server kick will be.
+Want to be immune?  <@&764842395811446795> are immune to any inactivity kick actions (for now).  But if you can't boost, just let us know and state you'll be taking some time off.  You don't need to give us dates or anything but your post there will exempt you from any inactivity kicks for up to two weeks or whenever the next mass server kick will be.
 
 Please don't abuse this feature.  If you try to go around this rule "going on vacation" every two weeks, we'll kick you anyway.
 
@@ -50,7 +52,7 @@ Please don't abuse this feature.  If you try to go around this rule "going on va
 
 We know you have your choice of servers and we thank you for joining ours.  In order to keep membership harassment to a minimum, we ask that you refrain from advertising other BDSM servers in-channel.  We want to be supportive and encourage everyone to explore and share these other servers in established DMs.
 
-DMing members solely to advertise other servers is prohibited and users who receive such DMs should report them immediately.
+DM-ing members solely to advertise other servers is prohibited and users who receive such DMs should report them immediately.
 
 Admins, moderators, and other staff members of these servers are respectfully requested to create a <#752172092426027108> prior to creating an introduction.  Generally speaking, there would be concern that you are here solely to recruit members to your server.  However, we also know that you may want to go some place where "you're not in charge".  All we ask is that you be honest with us so that your intentions are clear.
 
@@ -89,18 +91,19 @@ Specific bot information and which channels they have access to is noted in <#75
 Verification is required if you wish to post lewds or nudes.  It also grants you access to verification-specific channels such as gender support channels as well as a verified classifieds channel.
 
 While Verifying is **HIGHLY ENCOURAGED AND RECOMMENDED**, it is not required.  In order to verify, please create a <#752172092426027108>.  Verification occurs in one of three methods:
-- **VC with Video**: You will join a moderator on video chat.  He/She will ask you some questions and you'll be done.  Simplist way to verify.
 - **Adult Website Verification**: If you are a verified member on a website such as OnlyFans, PornHub, etc. please let your moderator know.  You will be required to prove your identity.
 - **Picture verification**: You will be required to take at least two pictures: 
+
 > - Selfie with a **hand-written sign** that has the server name, your Discord Username and Discriminator (the four digit code that comes after the `#`), and the date and time.
 > - A second selfie that you will take during verification.  
+
 Pictures must be submitted within 6 hours of the picture being taken and cannot use any filters.
 
 -- message break -- 
 
 Example of a selfie with your username, server name, and date and time:
 
-https://github.com/kmorris896/rapture-discord-server-documentation/raw/main/channel_text/landing-zone/images/VerificationSelfie.png
+https://github.com/kmorris896/rapture-discord-server-documentation/raw/main/channel_text/images-and-assets/VerificationSelfie.png
 
 -- message break --
 
@@ -108,7 +111,7 @@ In all three methods, a picture of a government-issued identification will be re
 
 Example of a government-issued identification:
 
-https://github.com/kmorris896/rapture-discord-server-documentation/raw/main/channel_text/landing-zone/images/MaskedPassport.jpg
+https://github.com/kmorris896/rapture-discord-server-documentation/raw/main/channel_text/images-and-assets/MaskedPassport.jpg
 
 -- message break -- 
 
@@ -215,5 +218,5 @@ Generally speaking, patches to the rules (the last kind of change), will be done
 
 +++
 
-This is version **1.3.2** and was last edited on 10/26/2020.  For details regarding changes between this version and the last version, please visit the last pull request: <https://github.com/kmorris896/rapture-discord-server-documentation/pull/12>
+This is version **1.4** and was last edited on 1/17/2021.  For details regarding changes between this version and the last version, please visit the last pull request: <https://github.com/kmorris896/rapture-discord-server-documentation/pull/15>
 

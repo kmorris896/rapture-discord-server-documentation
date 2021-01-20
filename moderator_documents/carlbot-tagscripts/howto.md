@@ -40,7 +40,7 @@ Provides instructions on how to verify.
 
 {% raw %}
 ```
-{"description":"• [Rapture Principles](https://kmorris896.github.io/rapture-discord-server-documentation/channel_text/landing-zone/welcome-message.html)\n• [Server Rules and Policies](https://kmorris896.github.io/rapture-discord-server-documentation/channel_text/landing-zone/rules-and-policies.html)\n• [Moderation Guide](https://kmorris896.github.io/rapture-discord-server-documentation/moderator_documents/why.html)\n\nRule changes/diffs can be found in [the server repository](https://github.com/kmorris896/rapture-discord-server-documentation/pulls?q=is%3Apr).","thumbnail":{"url":"https://github.com/kmorris896/rapture-discord-server-documentation/raw/228f19504580d0283b5415464bc184adb055acff/channel_text/landing-zone/images/github.png"},"color":8311585}
+{"description":"• [Rapture Principles](https://kmorris896.github.io/rapture-discord-server-documentation/channel_text/landing-zone/welcome-message.html)\n• [Server Rules and Policies](https://kmorris896.github.io/rapture-discord-server-documentation/channel_text/landing-zone/rules-and-policies.html)\n• [Moderation Guide](https://kmorris896.github.io/rapture-discord-server-documentation/moderator_documents/why.html)\n\nRule changes/diffs can be found in [the server repository](https://github.com/kmorris896/rapture-discord-server-documentation/pulls?q=is%3Apr).","thumbnail":{"url":"https://github.com/kmorris896/rapture-discord-server-documentation/raw/228f19504580d0283b5415464bc184adb055acff/channel_text/images-and-assets/github.png"},"color":8311585}
 ```
 {% endraw %}
 
