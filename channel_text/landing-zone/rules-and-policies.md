@@ -61,7 +61,7 @@ Please note that while you are welcome here, we reserve the right to limit your 
 -- message break --
 
 - Staff members, moderators, admins, unique role holders of servers that have 2K or more members are not permitted to join without admin approval.
-- Staff members, moderators, and admins of other sex toy-related servers (servers that specifically have a toy control or similar channel) must create a <#752172092426027108> prior to creating an introduction and will be required to verify.
+- Staff members, moderators, and admins of other sex toy-related servers of any size (servers that specifically have a toy control or similar channel) must create a <#752172092426027108> prior to creating an introduction and will be required to verify.
 - Staff members, moderators, and admins of other BDSM-related servers should (but are not required) create a <#752172092426027108> prior to creating an introduction.
 - The above does not apply to "personal" servers so long as:
 >  - They are not advertised on Discord's server discovery feature, Disboard or similar website 
