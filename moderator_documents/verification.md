@@ -14,20 +14,13 @@ The example that is posted on the server:
 
 ![Image of a Censored License](https://github.com/kmorris896/rapture-discord-server-documentation/raw/main/channel_text/images-and-assets/MaskedPassport.jpg)
 
-Obviously, check to make sure that the person is 18 years old.  FYI: **Their birthday must be before or today 2002.**
+Obviously, check to make sure that the person is 18 years old.  FYI: **Their birthday must be before or today 2003.**
 
-The license is used to verify the person is over 18 and that their license picture reasonabily matches their picture/video.
+The license is used to verify the person is over 18 and that their license picture reasonably matches their picture/video.
 
 While I have a hard time believing this will happen, if you are concerned that an ID may be fake, please let the admin handle the verification.
 
 Now let's go through each method.
-
-
-## Video Chat
-
-Enter DMs with the person wishing to verify.  Connect via Video Chat (sharing your camera as well) and talk with the member.  Asking simple questions like "How's the weather" or "What did you have for breakfast/lunch/dinner" would be sufficiant.
-
-What you're looking for is to make sure that the video isn't being simulated.  Ask them to wave their hand or other motion to ensure that they are real.  Once you are satisfied, you may close the VC.  It shouldn't take more than a few minutes.
 
 
 ## Picture Verification
@@ -40,7 +33,7 @@ Have the member post this picture first.  Make sure the picture looks clear and 
 
 The concern that we want to address is that someone who is trying to gain access to gender-specific channels.
 
-If you are not satisfied, have the user take the picture again with a new sign.  Don't do this more than once.  If you are still not satisified, pass it on to an admin.
+If you are not satisfied, have the user take the picture again with a new sign.  Don't do this more than once.  If you are still not satisfied, pass it on to an admin.
 
 The second selfie the user is to take must happen while in chat.  Have the user take another selfie with something else written on top of the sign.  Examples include a random word or number.  If they can't do this, have them take a selfie holding up a hand signal such as thumbs up, hang-loose, "Dr. Evil Pinky Thing", etc.  **Do not have hold up a number with their fingers.**  It's too easy for them to get all combinations from someone else.
 
@@ -51,7 +44,9 @@ If they fail verification twice, members must verify using Video Chat immediatel
 
 ## Adult Website Verification
 
-.. Note:: This is still experimental.  The process for this may change.
+```note
+This is still experimental.  The process for this may change.
+```
 
 If the member is a **verified** member of one of the following sites, they may verify without posting a picture:
 
@@ -59,14 +54,16 @@ If the member is a **verified** member of one of the following sites, they may v
 - onlyfans.com
 - hutt.com
 
-In order for the member to verify, they must post on their site a publically accessible picture that shows their face.  If they do not show their face on their site, they cannot verify in this way.
+In order for the member to verify, they must post on their site a publicly accessible picture that shows their face.  If they do not show their face on their site, they cannot verify in this way.
 
-Make sure that the member's license picture reasonabily matches the picture they posted.
+Make sure that the member's license picture reasonably matches the picture they posted.
 
 
 ## Shared Discord Server Verification
 
-.. Note:: This is still experimental.  The process for this may change.
+```note
+This is still experimental.  The process for this may change.
+```
 
 If the member is verified on another Discord Server that you share with them and they have a similar system of verification, you may verify them without further review.
 
