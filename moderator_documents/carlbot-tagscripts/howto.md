@@ -16,7 +16,7 @@ Provides instructions on how to verify.
 
 {% raw %}
 ```
-{=(validCommands):verify rules policies inactive invite}
+{=(validCommands):verify rules policies inactive invite intro}
 
 {=():Invalid shortcut "{1}"; must me one of: {validCommands}}
 
@@ -26,9 +26,9 @@ Provides instructions on how to verify.
 {=(verify):gvwGFW90}
 {=(inactive):5fQrhBgT}
 {=(invite):85nB1sMz}
+{=(intro):tEtnukc9}
 
 {=(embedBin):{{L1}}}
-
 {{and({in({L1}):{validCommands}}==true):c:cembed https://pastebin.com/{embedBin}}}
 
 ```
@@ -57,7 +57,7 @@ Provides instructions on how to verify.
 ### inactive
 {% raw %}
 ```
-{"title":"⏰Inactivity Policy","description":"This server prides itself in having **active** membership.  We'd rather our membership numbers reflect the total number of people who participate than have a high count.\n\nDetails regarding our [Inactivity policy are available](https://discord.com/channels/752074304224755752/752104497538400306/763876359457603614).  If you want to tell us you won't be available, post in <#761402092107595797>","color":8311585}
+{"title":"⏰Inactivity Policy","description":"This server prides itself in having **active** membership.  We'd rather our membership numbers reflect the total number of people who participate than have a high count.\n\nDetails regarding our [Inactivity policy are available in our Rules and Policies](https://kmorris896.github.io/rapture-discord-server-documentation/channel_text/landing-zone/rules-and-policies.html).  If you want to tell us you won't be available, post in <#761402092107595797>","color":8311585}
 ```
 {% endraw %}
 
@@ -68,3 +68,13 @@ Provides instructions on how to verify.
 {"title":"📨 Server Invite","description":"Want to invite someone?  Here is the Invite link:\n\n`https://discord.com/invite/hRSHvBd`","color":8311585}
 ```
 {% endraw %}
+
+
+### intro
+{% raw %}
+```
+{"title":"📝 Introductions","description":"Writing an introduction is a necessary and important part of joining this server.  Please make sure you use the template provided in <#760644474127908925> and that each section is filled out.","color":8311585}
+```
+{% endraw %}
+
+

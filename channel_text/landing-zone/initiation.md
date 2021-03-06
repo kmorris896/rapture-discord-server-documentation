@@ -29,6 +29,8 @@ Before you gain access to the rest of the server, you must create an introductio
 
 -- message break --
 
+A blank introduction is available in <#760644474127908925>
+
 Introductions must be posted within 48 hours of your arrival.  If you haven't done that, we'll politely give you a server kick.  You're welcome back any time but we try to keep people active and moving in the server.
 
 When you're ready to post an introduction, please create a <#752172092426027108>.
@@ -39,4 +41,6 @@ Remember: you are encouraged to edit your introduction as many times as you'd li
 
 Once you are approved, you will need to copy and paste your approved introduction to <#752098112461471844>.  If you don't do this in a timely manner, your membership status may be revoked.  
 
-You'll be an **Initiate** for about two weeks.  During this time, get to know the server and it's members.  Mods are generally more lenient on initiates but do not abuse or take advantage of this.  Please explore, chat, and familiarize yourself with what we're about.  We hope you enjoy it here.
+You'll be an **Initiate** for about two weeks.  During this time, get to know the server and it's members.  As an initiate, you won't get immediate access to the Control Links channel.  
+
+Mods are generally more lenient on initiates but do not abuse or take advantage of this.  Please explore, chat, and familiarize yourself with what we're about.  We hope you enjoy it here.
