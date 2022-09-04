@@ -1,0 +1,12 @@
+ServerName: Rapture
+ServerId: 752074304224755752
+
+LandingZone:
+  - categoryName: Landing Zone
+  - channels:
+    - 
+      channelName: welcome
+      channelId: 752074304224755755
+    - 
+      channelName: rules-and-policies
+      channelId: 752104497538400306
